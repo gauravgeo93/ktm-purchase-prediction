@@ -1,0 +1,1519 @@
+ID,Age,Gender,Occupation,Phone Type,Current Bike,Relationship,Response
+1,53,Male ,Professional,Average,180 to 220,Complicated,Not purchased
+2,27,Female,Self Employed,Low End,No Bike,Single,Purchased
+3,39,Female,Unemployed,Average,180 to 220,Married,Not purchased
+4,20,Female,Unemployed,High End,No Bike,Married,Not purchased
+5,29,Male ,Student,Average,180 to 220,Complicated,Purchased
+6,54,Female,Self Employed,Low End,No Bike,Committed,Not purchased
+7,47,Male ,Unemployed,Low End,220 and Above,Complicated,Purchased
+8,44,Female,Unemployed,High End,125 to 180,Complicated,Not purchased
+9,38,Male ,Professional,Average,Below 125,Married,Purchased
+10,24,Female,Self Employed,High End,220 and Above,Complicated,Not purchased
+11,38,Female,Unemployed,Low End,180 to 220,Complicated,Not purchased
+12,23,Female,Self Employed,Low End,220 and Above,Committed,Not purchased
+13,45,Female,Unemployed,Average,125 to 180,Complicated,Not purchased
+14,34,Female,Student,Average,Below 125,Single,Purchased
+15,46,Male ,Professional,Low End,125 to 180,Married,Purchased
+16,44,Male ,Self Employed,High End,125 to 180,Single,Not purchased
+17,54,Female,Professional,High End,Below 125,Married,Not purchased
+18,51,Male ,Unemployed,Average,125 to 180,Single,Purchased
+19,25,Female,Self Employed,Average,Below 125,Single,Purchased
+20,47,Male ,Professional,High End,220 and Above,Committed,Purchased
+21,50,Male ,Student,Average,180 to 220,Complicated,Not purchased
+22,19,Male ,Unemployed,High End,Below 125,Committed,Not purchased
+23,47,Female,Self Employed,Average,220 and Above,Single,Not purchased
+24,23,Female,Unemployed,Low End,220 and Above,Single,Purchased
+25,42,Male ,Self Employed,High End,220 and Above,Married,Purchased
+26,54,Female,Professional,Average,Below 125,Married,Not purchased
+27,31,Male ,Unemployed,Low End,Below 125,Single,Not purchased
+28,24,Male ,Unemployed,High End,125 to 180,Complicated,Not purchased
+29,21,Female,Student,Average,Below 125,Married,Not purchased
+30,31,Female,Self Employed,Low End,180 to 220,Single,Not purchased
+31,23,Female,Self Employed,High End,125 to 180,Single,Purchased
+32,59,Female,Professional,Low End,125 to 180,Single,Not purchased
+33,60,Female,Unemployed,High End,No Bike,Married,Not purchased
+34,43,Male ,Unemployed,High End,No Bike,Single,Not purchased
+35,27,Female,Student,Average,125 to 180,Complicated,Purchased
+36,21,Female,Unemployed,High End,220 and Above,Committed,Not purchased
+37,24,Female,Student,High End,220 and Above,Single,Purchased
+38,53,Male ,Self Employed,High End,180 to 220,Committed,Not purchased
+39,49,Male ,Student,High End,180 to 220,Single,Not purchased
+40,22,Female,Self Employed,Low End,Below 125,Single,Not purchased
+41,48,Female,Self Employed,High End,220 and Above,Committed,Not purchased
+42,49,Male ,Professional,Low End,180 to 220,Committed,Not purchased
+43,19,Male ,Professional,High End,125 to 180,Married,Not purchased
+44,25,Male ,Self Employed,Low End,Below 125,Committed,Purchased
+45,50,Male ,Student,High End,No Bike,Single,Purchased
+46,23,Male ,Student,Average,220 and Above,Committed,Purchased
+47,42,Male ,Student,Low End,180 to 220,Single,Purchased
+48,24,Male ,Student,Low End,Below 125,Committed,Purchased
+49,47,Female,Professional,Average,Below 125,Complicated,Not purchased
+50,29,Female,Student,Low End,No Bike,Complicated,Purchased
+51,38,Female,Unemployed,Low End,Below 125,Married,Not purchased
+52,43,Female,Unemployed,Low End,220 and Above,Complicated,Not purchased
+53,19,Female,Professional,High End,125 to 180,Married,Not purchased
+54,37,Male ,Unemployed,High End,125 to 180,Complicated,Purchased
+55,25,Female,Unemployed,Low End,125 to 180,Single,Not purchased
+56,18,Female,Professional,Average,180 to 220,Married,Purchased
+57,31,Female,Unemployed,Average,180 to 220,Committed,Not purchased
+58,52,Female,Self Employed,Average,125 to 180,Committed,Not purchased
+59,19,Male ,Professional,High End,No Bike,Single,Purchased
+60,38,Female,Professional,High End,Below 125,Complicated,Not purchased
+61,52,Female,Professional,High End,125 to 180,Married,Not purchased
+62,50,Male ,Unemployed,High End,No Bike,Committed,Not purchased
+63,50,Male ,Student,High End,Below 125,Committed,Not purchased
+64,58,Male ,Unemployed,Low End,125 to 180,Complicated,Purchased
+65,35,Female,Self Employed,Low End,Below 125,Committed,Not purchased
+66,29,Female,Professional,Low End,Below 125,Committed,Purchased
+67,26,Female,Student,Low End,220 and Above,Married,Not purchased
+68,22,Male ,Self Employed,Low End,180 to 220,Complicated,Not purchased
+69,51,Female,Unemployed,Average,No Bike,Married,Not purchased
+70,34,Female,Professional,High End,220 and Above,Married,Not purchased
+71,18,Female,Self Employed,High End,125 to 180,Single,Not purchased
+72,31,Male ,Self Employed,Low End,180 to 220,Single,Not purchased
+73,37,Male ,Professional,Low End,180 to 220,Committed,Not purchased
+74,21,Male ,Professional,High End,Below 125,Complicated,Not purchased
+75,40,Female,Self Employed,Average,180 to 220,Committed,Purchased
+76,25,Female,Self Employed,Low End,Below 125,Committed,Purchased
+77,29,Male ,Unemployed,High End,Below 125,Married,Not purchased
+78,41,Male ,Student,Average,No Bike,Single,Purchased
+79,55,Female,Unemployed,High End,220 and Above,Complicated,Not purchased
+80,35,Female,Unemployed,Average,No Bike,Complicated,Not purchased
+81,38,Male ,Self Employed,Average,180 to 220,Committed,Purchased
+82,57,Male ,Student,High End,125 to 180,Committed,Not purchased
+83,50,Female,Unemployed,High End,Below 125,Complicated,Not purchased
+84,49,Male ,Professional,Low End,No Bike,Married,Not purchased
+85,21,Female,Student,Average,220 and Above,Married,Purchased
+86,20,Male ,Student,Average,Below 125,Married,Not purchased
+87,37,Male ,Unemployed,Low End,125 to 180,Single,Not purchased
+88,22,Male ,Student,Low End,180 to 220,Single,Not purchased
+89,42,Female,Self Employed,Average,125 to 180,Single,Not purchased
+90,51,Female,Unemployed,Average,No Bike,Complicated,Not purchased
+91,51,Male ,Professional,Average,Below 125,Committed,Not purchased
+92,27,Male ,Unemployed,High End,180 to 220,Committed,Not purchased
+93,42,Female,Unemployed,Low End,220 and Above,Complicated,Not purchased
+94,46,Male ,Self Employed,Low End,220 and Above,Married,Purchased
+95,23,Male ,Professional,Average,125 to 180,Committed,Not purchased
+96,56,Female,Professional,High End,180 to 220,Committed,Not purchased
+97,50,Male ,Professional,Average,No Bike,Committed,Purchased
+98,46,Female,Unemployed,High End,125 to 180,Complicated,Not purchased
+99,49,Female,Self Employed,High End,No Bike,Committed,Not purchased
+100,35,Male ,Professional,Average,125 to 180,Married,Purchased
+101,59,Male ,Student,Average,No Bike,Committed,Not purchased
+102,30,Male ,Professional,Average,No Bike,Married,Not purchased
+103,18,Female,Student,Low End,125 to 180,Complicated,Purchased
+104,22,Male ,Student,Average,Below 125,Complicated,Not purchased
+105,48,Male ,Professional,High End,125 to 180,Complicated,Purchased
+106,60,Female,Unemployed,Low End,180 to 220,Married,Not purchased
+107,51,Male ,Student,Low End,125 to 180,Single,Not purchased
+108,47,Female,Self Employed,Low End,220 and Above,Married,Not purchased
+109,30,Male ,Professional,High End,180 to 220,Committed,Purchased
+110,31,Male ,Professional,Average,Below 125,Married,Not purchased
+111,24,Male ,Unemployed,High End,180 to 220,Committed,Not purchased
+112,37,Female,Unemployed,Average,125 to 180,Married,Not purchased
+113,46,Male ,Professional,High End,180 to 220,Complicated,Not purchased
+114,45,Female,Unemployed,Average,No Bike,Married,Not purchased
+115,39,Female,Professional,Average,220 and Above,Complicated,Not purchased
+116,19,Female,Student,High End,125 to 180,Complicated,Purchased
+117,34,Male ,Professional,Average,180 to 220,Single,Not purchased
+118,48,Female,Unemployed,High End,No Bike,Married,Not purchased
+119,52,Male ,Student,Average,Below 125,Committed,Purchased
+120,41,Male ,Self Employed,High End,No Bike,Single,Purchased
+121,21,Male ,Self Employed,Low End,220 and Above,Committed,Purchased
+122,33,Male ,Unemployed,Average,220 and Above,Married,Not purchased
+123,19,Male ,Student,Average,180 to 220,Single,Not purchased
+124,57,Female,Professional,Low End,125 to 180,Married,Not purchased
+125,20,Female,Self Employed,Average,125 to 180,Committed,Not purchased
+126,27,Female,Self Employed,Low End,220 and Above,Single,Not purchased
+127,46,Female,Unemployed,High End,125 to 180,Complicated,Not purchased
+128,20,Male ,Professional,Average,No Bike,Married,Not purchased
+129,25,Male ,Self Employed,High End,No Bike,Complicated,Not purchased
+130,55,Female,Unemployed,High End,Below 125,Committed,Not purchased
+131,23,Female,Unemployed,Low End,180 to 220,Married,Not purchased
+132,58,Female,Unemployed,High End,No Bike,Committed,Not purchased
+133,57,Female,Unemployed,Low End,No Bike,Married,Not purchased
+134,27,Female,Student,Average,Below 125,Complicated,Purchased
+135,43,Female,Self Employed,Low End,180 to 220,Married,Not purchased
+136,41,Male ,Student,Average,180 to 220,Single,Purchased
+137,57,Female,Unemployed,High End,125 to 180,Committed,Not purchased
+138,34,Female,Student,Average,180 to 220,Complicated,Purchased
+139,22,Female,Professional,Average,180 to 220,Committed,Not purchased
+140,20,Male ,Self Employed,Average,220 and Above,Married,Purchased
+141,24,Female,Unemployed,Low End,Below 125,Complicated,Not purchased
+142,60,Male ,Self Employed,Average,125 to 180,Complicated,Not purchased
+143,29,Female,Self Employed,Low End,Below 125,Committed,Purchased
+144,36,Female,Unemployed,Average,No Bike,Complicated,Not purchased
+145,58,Male ,Professional,High End,220 and Above,Single,Not purchased
+146,33,Male ,Unemployed,Average,Below 125,Committed,Not purchased
+147,30,Male ,Unemployed,Average,220 and Above,Single,Not purchased
+148,44,Male ,Professional,Low End,220 and Above,Committed,Purchased
+149,56,Male ,Professional,Average,No Bike,Committed,Not purchased
+150,48,Female,Professional,Low End,220 and Above,Single,Not purchased
+151,32,Male ,Professional,Average,125 to 180,Committed,Purchased
+152,30,Female,Student,Low End,125 to 180,Complicated,Not purchased
+153,54,Male ,Self Employed,High End,No Bike,Committed,Not purchased
+154,57,Female,Unemployed,Low End,Below 125,Single,Not purchased
+155,51,Male ,Unemployed,High End,Below 125,Committed,Not purchased
+156,58,Female,Unemployed,High End,125 to 180,Complicated,Not purchased
+157,58,Male ,Student,High End,180 to 220,Married,Purchased
+158,54,Male ,Unemployed,Average,No Bike,Committed,Purchased
+159,41,Male ,Self Employed,Average,180 to 220,Committed,Not purchased
+160,60,Male ,Unemployed,Average,180 to 220,Single,Purchased
+161,26,Male ,Unemployed,Average,180 to 220,Complicated,Purchased
+162,52,Female,Unemployed,Average,125 to 180,Married,Not purchased
+163,24,Female,Student,High End,180 to 220,Complicated,Purchased
+164,50,Female,Professional,Low End,Below 125,Single,Not purchased
+165,36,Female,Professional,Low End,125 to 180,Single,Not purchased
+166,27,Female,Self Employed,High End,220 and Above,Married,Not purchased
+167,37,Male ,Self Employed,Low End,220 and Above,Complicated,Not purchased
+168,51,Female,Unemployed,Low End,No Bike,Single,Not purchased
+169,52,Male ,Student,High End,Below 125,Single,Purchased
+170,31,Female,Student,High End,No Bike,Married,Purchased
+171,59,Female,Unemployed,High End,125 to 180,Single,Not purchased
+172,52,Male ,Professional,Average,Below 125,Married,Not purchased
+173,42,Female,Professional,Average,No Bike,Single,Not purchased
+174,36,Male ,Unemployed,Low End,180 to 220,Committed,Not purchased
+175,58,Male ,Student,Low End,125 to 180,Married,Not purchased
+176,44,Male ,Student,Low End,No Bike,Single,Not purchased
+177,50,Male ,Self Employed,Low End,125 to 180,Complicated,Purchased
+178,38,Female,Student,Average,220 and Above,Married,Not purchased
+179,50,Male ,Student,Average,Below 125,Committed,Purchased
+180,54,Male ,Student,Low End,180 to 220,Single,Not purchased
+181,41,Female,Self Employed,Low End,Below 125,Complicated,Not purchased
+182,46,Male ,Self Employed,Low End,180 to 220,Complicated,Not purchased
+183,37,Male ,Professional,High End,Below 125,Married,Purchased
+184,27,Male ,Professional,High End,Below 125,Committed,Purchased
+185,42,Female,Unemployed,Low End,Below 125,Single,Not purchased
+186,27,Male ,Self Employed,Average,125 to 180,Married,Purchased
+187,53,Female,Self Employed,Average,125 to 180,Committed,Not purchased
+188,30,Female,Self Employed,Low End,No Bike,Committed,Not purchased
+189,32,Female,Self Employed,Average,125 to 180,Committed,Not purchased
+190,25,Male ,Professional,Average,180 to 220,Committed,Not purchased
+191,18,Male ,Self Employed,Average,Below 125,Complicated,Purchased
+192,40,Male ,Professional,Average,180 to 220,Committed,Not purchased
+193,20,Male ,Student,High End,No Bike,Complicated,Not purchased
+194,23,Female,Professional,High End,Below 125,Married,Purchased
+195,60,Male ,Self Employed,Low End,220 and Above,Committed,Purchased
+196,33,Female,Unemployed,Low End,125 to 180,Complicated,Not purchased
+197,31,Female,Professional,Average,No Bike,Committed,Purchased
+198,37,Female,Professional,Low End,No Bike,Married,Not purchased
+199,39,Male ,Professional,Low End,Below 125,Complicated,Not purchased
+200,44,Male ,Student,Average,180 to 220,Single,Purchased
+201,22,Male ,Self Employed,Average,Below 125,Married,Not purchased
+202,25,Female,Self Employed,Average,Below 125,Single,Not purchased
+203,41,Female,Professional,High End,No Bike,Single,Not purchased
+204,23,Female,Student,Average,Below 125,Complicated,Not purchased
+205,30,Male ,Self Employed,High End,180 to 220,Single,Purchased
+206,29,Female,Professional,Low End,180 to 220,Committed,Purchased
+207,33,Female,Student,Average,180 to 220,Committed,Purchased
+208,42,Male ,Self Employed,Average,125 to 180,Complicated,Purchased
+209,50,Male ,Unemployed,Average,125 to 180,Married,Not purchased
+210,58,Female,Professional,Low End,220 and Above,Complicated,Not purchased
+211,41,Female,Self Employed,High End,220 and Above,Married,Not purchased
+212,37,Male ,Professional,High End,180 to 220,Complicated,Purchased
+213,51,Female,Professional,Low End,125 to 180,Complicated,Not purchased
+214,46,Male ,Student,Low End,220 and Above,Committed,Not purchased
+215,58,Female,Unemployed,High End,Below 125,Single,Not purchased
+216,51,Female,Professional,Average,Below 125,Committed,Not purchased
+217,35,Female,Self Employed,Average,No Bike,Complicated,Not purchased
+218,39,Female,Professional,Low End,No Bike,Single,Not purchased
+219,18,Male ,Student,High End,180 to 220,Committed,Purchased
+220,49,Female,Professional,Low End,125 to 180,Complicated,Not purchased
+221,52,Female,Professional,Average,180 to 220,Married,Not purchased
+222,58,Male ,Professional,High End,180 to 220,Complicated,Not purchased
+223,56,Female,Self Employed,Low End,Below 125,Single,Not purchased
+224,52,Female,Unemployed,Low End,220 and Above,Single,Not purchased
+225,25,Female,Self Employed,Low End,No Bike,Committed,Purchased
+226,53,Male ,Self Employed,High End,No Bike,Married,Purchased
+227,23,Female,Student,Low End,125 to 180,Committed,Not purchased
+228,49,Female,Self Employed,Average,Below 125,Married,Not purchased
+229,20,Male ,Student,Average,No Bike,Complicated,Not purchased
+230,50,Male ,Self Employed,High End,No Bike,Complicated,Not purchased
+231,44,Female,Self Employed,Low End,125 to 180,Married,Not purchased
+232,47,Female,Professional,High End,No Bike,Married,Not purchased
+233,37,Male ,Professional,Low End,180 to 220,Single,Purchased
+234,37,Male ,Unemployed,Average,180 to 220,Married,Not purchased
+235,24,Male ,Student,Low End,220 and Above,Complicated,Not purchased
+236,36,Male ,Self Employed,Low End,220 and Above,Married,Not purchased
+237,23,Female,Student,High End,Below 125,Single,Purchased
+238,24,Female,Student,High End,220 and Above,Married,Not purchased
+239,36,Female,Professional,Average,125 to 180,Committed,Purchased
+240,55,Female,Professional,Low End,No Bike,Married,Not purchased
+241,39,Female,Unemployed,High End,No Bike,Complicated,Purchased
+242,59,Female,Professional,Low End,No Bike,Married,Not purchased
+243,52,Female,Unemployed,Low End,Below 125,Complicated,Not purchased
+244,52,Female,Professional,High End,No Bike,Married,Not purchased
+245,30,Male ,Professional,High End,125 to 180,Complicated,Purchased
+246,39,Female,Professional,High End,No Bike,Single,Purchased
+247,25,Female,Self Employed,Average,No Bike,Committed,Not purchased
+248,31,Female,Unemployed,Low End,220 and Above,Committed,Purchased
+249,30,Female,Self Employed,Average,220 and Above,Married,Purchased
+250,59,Female,Self Employed,Low End,220 and Above,Married,Not purchased
+251,40,Female,Student,High End,125 to 180,Committed,Not purchased
+252,39,Female,Student,Low End,220 and Above,Single,Not purchased
+253,58,Female,Professional,Average,Below 125,Complicated,Not purchased
+254,49,Female,Self Employed,High End,No Bike,Single,Not purchased
+255,19,Male ,Unemployed,High End,220 and Above,Single,Not purchased
+256,50,Male ,Unemployed,Average,220 and Above,Single,Not purchased
+257,50,Male ,Professional,Low End,180 to 220,Single,Purchased
+258,55,Female,Self Employed,High End,Below 125,Single,Not purchased
+259,57,Female,Professional,Average,Below 125,Single,Not purchased
+260,29,Male ,Unemployed,High End,220 and Above,Committed,Not purchased
+261,54,Male ,Professional,Low End,180 to 220,Committed,Purchased
+262,51,Female,Professional,Average,No Bike,Married,Not purchased
+263,53,Female,Professional,High End,220 and Above,Single,Not purchased
+264,39,Female,Student,Average,Below 125,Married,Not purchased
+265,25,Male ,Unemployed,Low End,180 to 220,Single,Not purchased
+266,42,Male ,Unemployed,High End,125 to 180,Complicated,Not purchased
+267,51,Female,Unemployed,High End,No Bike,Single,Not purchased
+268,43,Female,Unemployed,High End,180 to 220,Complicated,Not purchased
+269,58,Male ,Student,Low End,No Bike,Single,Not purchased
+270,58,Male ,Self Employed,High End,125 to 180,Single,Not purchased
+271,29,Female,Self Employed,Low End,220 and Above,Committed,Purchased
+272,59,Male ,Unemployed,Average,180 to 220,Married,Not purchased
+273,34,Male ,Professional,Low End,125 to 180,Married,Purchased
+274,25,Male ,Unemployed,High End,220 and Above,Committed,Purchased
+275,52,Male ,Unemployed,Average,No Bike,Committed,Purchased
+276,36,Female,Student,Average,No Bike,Complicated,Purchased
+277,45,Male ,Self Employed,Low End,125 to 180,Committed,Not purchased
+278,53,Male ,Professional,Average,220 and Above,Married,Not purchased
+279,49,Male ,Student,Low End,180 to 220,Complicated,Purchased
+280,48,Female,Self Employed,Low End,180 to 220,Committed,Not purchased
+281,26,Male ,Unemployed,Low End,Below 125,Single,Purchased
+282,59,Male ,Student,High End,220 and Above,Single,Purchased
+283,24,Male ,Unemployed,Low End,No Bike,Committed,Purchased
+284,55,Male ,Professional,Average,Below 125,Single,Not purchased
+285,22,Female,Self Employed,High End,Below 125,Complicated,Not purchased
+286,34,Male ,Self Employed,High End,125 to 180,Married,Purchased
+287,43,Female,Professional,Low End,Below 125,Committed,Not purchased
+288,39,Female,Unemployed,Low End,125 to 180,Committed,Not purchased
+289,46,Female,Unemployed,Low End,No Bike,Committed,Not purchased
+290,38,Male ,Professional,High End,No Bike,Complicated,Purchased
+291,36,Male ,Professional,Average,Below 125,Single,Not purchased
+292,36,Male ,Unemployed,Average,Below 125,Complicated,Not purchased
+293,38,Male ,Self Employed,High End,125 to 180,Married,Purchased
+294,46,Female,Self Employed,Low End,125 to 180,Single,Not purchased
+295,49,Female,Unemployed,Low End,125 to 180,Single,Not purchased
+296,37,Male ,Unemployed,Low End,125 to 180,Committed,Not purchased
+297,44,Male ,Student,Low End,125 to 180,Complicated,Purchased
+298,34,Male ,Unemployed,Average,125 to 180,Single,Not purchased
+299,56,Female,Unemployed,Low End,Below 125,Single,Not purchased
+300,53,Male ,Professional,Low End,No Bike,Married,Purchased
+301,51,Female,Self Employed,Average,125 to 180,Committed,Not purchased
+302,40,Male ,Unemployed,Low End,Below 125,Committed,Not purchased
+303,42,Male ,Self Employed,Low End,125 to 180,Complicated,Not purchased
+304,57,Male ,Self Employed,Low End,Below 125,Committed,Purchased
+305,21,Male ,Unemployed,Low End,180 to 220,Single,Purchased
+306,46,Female,Unemployed,Average,180 to 220,Committed,Not purchased
+307,27,Female,Professional,High End,180 to 220,Complicated,Not purchased
+308,47,Male ,Student,Average,180 to 220,Committed,Not purchased
+309,23,Female,Self Employed,Low End,125 to 180,Single,Not purchased
+310,45,Female,Self Employed,Average,125 to 180,Complicated,Not purchased
+311,29,Female,Self Employed,Low End,220 and Above,Single,Purchased
+312,30,Male ,Professional,Low End,No Bike,Complicated,Purchased
+313,48,Male ,Self Employed,High End,Below 125,Single,Not purchased
+314,60,Male ,Unemployed,Low End,125 to 180,Committed,Not purchased
+315,55,Female,Self Employed,Average,No Bike,Complicated,Not purchased
+316,46,Female,Self Employed,Average,180 to 220,Committed,Not purchased
+317,29,Female,Student,High End,180 to 220,Single,Not purchased
+318,38,Male ,Unemployed,Average,125 to 180,Single,Not purchased
+319,47,Female,Self Employed,Low End,No Bike,Single,Not purchased
+320,49,Female,Professional,Average,220 and Above,Complicated,Not purchased
+321,53,Female,Professional,High End,125 to 180,Committed,Not purchased
+322,49,Female,Self Employed,Low End,No Bike,Married,Not purchased
+323,57,Male ,Unemployed,High End,Below 125,Married,Not purchased
+324,37,Male ,Professional,Low End,220 and Above,Complicated,Purchased
+325,25,Female,Unemployed,Low End,220 and Above,Single,Purchased
+326,34,Male ,Unemployed,Average,125 to 180,Complicated,Not purchased
+327,30,Male ,Professional,High End,No Bike,Complicated,Not purchased
+328,54,Male ,Unemployed,High End,No Bike,Married,Not purchased
+329,42,Female,Unemployed,Low End,220 and Above,Complicated,Not purchased
+330,45,Male ,Unemployed,High End,125 to 180,Complicated,Not purchased
+331,23,Male ,Unemployed,High End,220 and Above,Complicated,Not purchased
+332,48,Female,Professional,Low End,220 and Above,Complicated,Not purchased
+333,19,Female,Unemployed,Low End,180 to 220,Married,Purchased
+334,27,Female,Unemployed,Low End,180 to 220,Single,Purchased
+335,42,Male ,Unemployed,Low End,125 to 180,Complicated,Not purchased
+336,27,Male ,Student,High End,180 to 220,Single,Not purchased
+337,37,Male ,Professional,Low End,Below 125,Committed,Not purchased
+338,55,Female,Self Employed,Average,No Bike,Single,Not purchased
+339,30,Female,Self Employed,Average,125 to 180,Single,Not purchased
+340,52,Female,Self Employed,Average,No Bike,Committed,Not purchased
+341,37,Female,Student,Average,220 and Above,Single,Purchased
+342,60,Female,Unemployed,Average,Below 125,Committed,Not purchased
+343,35,Male ,Professional,Low End,180 to 220,Committed,Purchased
+344,52,Female,Self Employed,High End,220 and Above,Committed,Not purchased
+345,22,Female,Student,Low End,125 to 180,Single,Purchased
+346,33,Female,Self Employed,Low End,180 to 220,Complicated,Not purchased
+347,43,Male ,Professional,Average,125 to 180,Single,Purchased
+348,19,Male ,Unemployed,Average,No Bike,Complicated,Not purchased
+349,36,Male ,Professional,High End,No Bike,Committed,Purchased
+350,50,Male ,Student,Average,180 to 220,Married,Purchased
+351,40,Female,Professional,Low End,220 and Above,Committed,Purchased
+352,20,Female,Unemployed,High End,220 and Above,Committed,Purchased
+353,44,Male ,Self Employed,High End,220 and Above,Complicated,Purchased
+354,50,Male ,Student,Average,No Bike,Married,Not purchased
+355,23,Male ,Self Employed,High End,180 to 220,Single,Not purchased
+356,48,Female,Self Employed,Average,220 and Above,Committed,Not purchased
+357,39,Female,Self Employed,High End,Below 125,Married,Purchased
+358,25,Male ,Professional,Average,No Bike,Married,Not purchased
+359,52,Male ,Professional,Low End,125 to 180,Complicated,Not purchased
+360,50,Male ,Unemployed,Low End,No Bike,Married,Purchased
+361,32,Female,Unemployed,Low End,180 to 220,Single,Purchased
+362,40,Male ,Unemployed,Low End,Below 125,Single,Not purchased
+363,25,Female,Student,Average,No Bike,Complicated,Purchased
+364,53,Male ,Professional,High End,No Bike,Complicated,Not purchased
+365,58,Female,Self Employed,Average,No Bike,Married,Not purchased
+366,31,Male ,Professional,Average,180 to 220,Single,Purchased
+367,43,Male ,Self Employed,High End,180 to 220,Single,Purchased
+368,36,Female,Self Employed,Average,No Bike,Married,Purchased
+369,21,Male ,Student,Average,220 and Above,Committed,Purchased
+370,20,Male ,Student,Average,No Bike,Married,Not purchased
+371,59,Male ,Unemployed,Average,180 to 220,Committed,Purchased
+372,53,Female,Professional,Average,220 and Above,Committed,Not purchased
+373,39,Female,Self Employed,Low End,No Bike,Single,Not purchased
+374,59,Female,Unemployed,High End,125 to 180,Complicated,Not purchased
+375,26,Male ,Self Employed,Low End,125 to 180,Single,Not purchased
+376,37,Female,Professional,Low End,No Bike,Married,Not purchased
+377,44,Female,Professional,Low End,Below 125,Single,Not purchased
+378,44,Female,Professional,Average,Below 125,Married,Not purchased
+379,60,Male ,Self Employed,Average,220 and Above,Single,Not purchased
+380,28,Female,Student,High End,No Bike,Complicated,Purchased
+381,27,Male ,Self Employed,Average,Below 125,Married,Purchased
+382,39,Female,Self Employed,Low End,220 and Above,Committed,Purchased
+383,46,Female,Unemployed,Low End,220 and Above,Single,Not purchased
+384,33,Female,Student,High End,180 to 220,Committed,Not purchased
+385,39,Female,Student,Low End,Below 125,Complicated,Not purchased
+386,39,Female,Unemployed,High End,Below 125,Complicated,Purchased
+387,22,Male ,Unemployed,Low End,220 and Above,Complicated,Purchased
+388,35,Male ,Unemployed,Low End,125 to 180,Complicated,Not purchased
+389,49,Female,Self Employed,Low End,Below 125,Single,Not purchased
+390,44,Female,Unemployed,Average,No Bike,Married,Not purchased
+391,48,Male ,Student,Average,125 to 180,Married,Purchased
+392,59,Female,Self Employed,Low End,180 to 220,Complicated,Not purchased
+393,49,Male ,Unemployed,High End,Below 125,Complicated,Purchased
+394,52,Male ,Professional,Average,125 to 180,Committed,Purchased
+395,46,Male ,Student,High End,Below 125,Committed,Not purchased
+396,22,Male ,Unemployed,High End,Below 125,Complicated,Purchased
+397,32,Female,Self Employed,Average,220 and Above,Complicated,Purchased
+398,57,Male ,Unemployed,High End,180 to 220,Committed,Purchased
+399,51,Female,Self Employed,Low End,No Bike,Married,Not purchased
+400,46,Male ,Professional,Low End,180 to 220,Complicated,Purchased
+401,24,Male ,Self Employed,High End,125 to 180,Committed,Purchased
+402,28,Female,Professional,Average,Below 125,Complicated,Not purchased
+403,44,Male ,Self Employed,High End,No Bike,Committed,Purchased
+404,44,Female,Self Employed,Average,Below 125,Complicated,Not purchased
+405,18,Female,Unemployed,Average,220 and Above,Single,Purchased
+406,60,Female,Self Employed,Average,No Bike,Single,Not purchased
+407,46,Female,Self Employed,Average,No Bike,Complicated,Not purchased
+408,53,Female,Professional,Low End,Below 125,Single,Not purchased
+409,33,Male ,Unemployed,Average,Below 125,Complicated,Not purchased
+410,22,Male ,Professional,Low End,220 and Above,Complicated,Not purchased
+411,52,Female,Professional,Average,No Bike,Married,Not purchased
+412,23,Female,Self Employed,High End,180 to 220,Committed,Purchased
+413,33,Male ,Self Employed,High End,125 to 180,Married,Not purchased
+414,24,Female,Unemployed,Average,No Bike,Married,Not purchased
+415,19,Male ,Self Employed,Average,125 to 180,Single,Purchased
+416,32,Female,Unemployed,High End,180 to 220,Committed,Purchased
+417,22,Female,Self Employed,Low End,No Bike,Married,Purchased
+418,40,Male ,Professional,Low End,220 and Above,Single,Purchased
+419,22,Male ,Student,Low End,180 to 220,Complicated,Not purchased
+420,54,Female,Unemployed,High End,220 and Above,Single,Not purchased
+421,23,Male ,Student,Average,Below 125,Complicated,Purchased
+422,46,Male ,Self Employed,Average,180 to 220,Married,Not purchased
+423,47,Female,Professional,High End,Below 125,Committed,Not purchased
+424,53,Male ,Self Employed,Average,180 to 220,Married,Purchased
+425,34,Male ,Unemployed,High End,125 to 180,Married,Purchased
+426,42,Male ,Professional,Low End,220 and Above,Single,Purchased
+427,46,Male ,Unemployed,Average,220 and Above,Committed,Purchased
+428,41,Male ,Self Employed,High End,Below 125,Married,Not purchased
+429,55,Male ,Professional,Low End,220 and Above,Committed,Not purchased
+430,25,Male ,Self Employed,High End,No Bike,Married,Not purchased
+431,32,Female,Student,Low End,180 to 220,Committed,Not purchased
+432,19,Male ,Student,Low End,125 to 180,Committed,Not purchased
+433,21,Male ,Self Employed,Low End,180 to 220,Committed,Purchased
+434,30,Female,Self Employed,Average,125 to 180,Complicated,Purchased
+435,23,Female,Student,Average,Below 125,Married,Purchased
+436,19,Female,Self Employed,Low End,125 to 180,Committed,Purchased
+437,47,Male ,Unemployed,High End,220 and Above,Married,Not purchased
+438,54,Male ,Unemployed,Average,125 to 180,Single,Purchased
+439,57,Female,Unemployed,High End,220 and Above,Married,Not purchased
+440,50,Male ,Self Employed,Low End,220 and Above,Single,Not purchased
+441,50,Female,Professional,Average,Below 125,Committed,Not purchased
+442,39,Male ,Professional,Low End,180 to 220,Committed,Purchased
+443,24,Male ,Student,Average,220 and Above,Complicated,Purchased
+444,32,Male ,Professional,Low End,No Bike,Complicated,Not purchased
+445,19,Female,Unemployed,Average,125 to 180,Complicated,Purchased
+446,30,Female,Unemployed,Average,Below 125,Complicated,Not purchased
+447,47,Male ,Student,Low End,220 and Above,Married,Purchased
+448,20,Male ,Self Employed,High End,Below 125,Married,Purchased
+449,24,Female,Student,Low End,180 to 220,Married,Purchased
+450,18,Female,Self Employed,Average,180 to 220,Single,Purchased
+451,51,Male ,Professional,Average,220 and Above,Married,Purchased
+452,47,Male ,Unemployed,Low End,Below 125,Committed,Not purchased
+453,45,Female,Self Employed,Low End,No Bike,Committed,Not purchased
+454,39,Male ,Unemployed,Low End,Below 125,Single,Not purchased
+455,46,Female,Professional,High End,220 and Above,Committed,Not purchased
+456,51,Male ,Unemployed,Low End,125 to 180,Married,Purchased
+457,59,Male ,Unemployed,High End,125 to 180,Complicated,Not purchased
+458,32,Male ,Unemployed,Low End,125 to 180,Single,Not purchased
+459,57,Female,Self Employed,High End,125 to 180,Complicated,Not purchased
+460,41,Female,Professional,High End,220 and Above,Married,Not purchased
+461,47,Female,Unemployed,Low End,125 to 180,Married,Not purchased
+462,18,Female,Self Employed,Average,125 to 180,Committed,Purchased
+463,26,Male ,Unemployed,High End,180 to 220,Complicated,Not purchased
+464,46,Female,Self Employed,High End,Below 125,Married,Not purchased
+465,38,Male ,Unemployed,Average,180 to 220,Complicated,Not purchased
+466,44,Male ,Self Employed,Low End,220 and Above,Committed,Purchased
+467,19,Female,Student,Average,No Bike,Married,Not purchased
+468,30,Male ,Unemployed,Low End,No Bike,Married,Purchased
+469,25,Female,Self Employed,High End,180 to 220,Single,Not purchased
+470,45,Male ,Student,Average,125 to 180,Married,Not purchased
+471,31,Female,Student,Average,No Bike,Complicated,Purchased
+472,29,Male ,Unemployed,High End,No Bike,Complicated,Purchased
+473,60,Male ,Self Employed,Low End,No Bike,Complicated,Not purchased
+474,56,Male ,Self Employed,Low End,No Bike,Complicated,Not purchased
+475,37,Male ,Self Employed,Low End,180 to 220,Complicated,Purchased
+476,42,Male ,Self Employed,Low End,No Bike,Complicated,Not purchased
+477,34,Female,Self Employed,Low End,180 to 220,Committed,Purchased
+478,32,Male ,Unemployed,Average,125 to 180,Complicated,Purchased
+479,28,Male ,Self Employed,Average,180 to 220,Complicated,Not purchased
+480,48,Female,Self Employed,High End,Below 125,Single,Not purchased
+481,44,Female,Unemployed,Low End,No Bike,Single,Not purchased
+482,46,Male ,Self Employed,Low End,180 to 220,Married,Purchased
+483,18,Male ,Student,High End,No Bike,Complicated,Purchased
+484,21,Female,Unemployed,High End,125 to 180,Complicated,Purchased
+485,47,Female,Self Employed,Low End,Below 125,Married,Not purchased
+486,20,Male ,Unemployed,High End,220 and Above,Single,Purchased
+487,21,Female,Student,Low End,125 to 180,Married,Purchased
+488,37,Male ,Professional,High End,Below 125,Married,Not purchased
+489,30,Female,Professional,Low End,No Bike,Single,Not purchased
+490,26,Male ,Student,Average,180 to 220,Complicated,Not purchased
+491,56,Female,Self Employed,Average,Below 125,Committed,Not purchased
+492,42,Female,Self Employed,Average,220 and Above,Complicated,Not purchased
+493,56,Female,Professional,Average,125 to 180,Single,Not purchased
+494,21,Female,Self Employed,Average,180 to 220,Complicated,Not purchased
+495,23,Female,Professional,High End,Below 125,Single,Not purchased
+496,28,Male ,Self Employed,High End,180 to 220,Complicated,Purchased
+497,20,Male ,Student,Average,180 to 220,Committed,Purchased
+498,49,Female,Professional,High End,220 and Above,Married,Not purchased
+499,41,Male ,Professional,Average,No Bike,Married,Purchased
+500,57,Female,Self Employed,Low End,180 to 220,Single,Not purchased
+501,36,Male ,Unemployed,Low End,125 to 180,Complicated,Purchased
+502,28,Female,Self Employed,High End,220 and Above,Committed,Purchased
+503,42,Female,Self Employed,High End,No Bike,Married,Not purchased
+504,36,Male ,Self Employed,High End,No Bike,Committed,Purchased
+505,40,Male ,Professional,High End,180 to 220,Single,Not purchased
+506,21,Male ,Self Employed,Low End,220 and Above,Complicated,Purchased
+507,53,Female,Self Employed,High End,Below 125,Committed,Not purchased
+508,30,Female,Self Employed,High End,125 to 180,Single,Not purchased
+509,33,Male ,Self Employed,Average,125 to 180,Committed,Purchased
+510,48,Male ,Self Employed,Low End,220 and Above,Complicated,Not purchased
+511,51,Female,Professional,Average,125 to 180,Single,Not purchased
+512,42,Female,Self Employed,Average,No Bike,Married,Not purchased
+513,44,Female,Unemployed,Average,125 to 180,Complicated,Not purchased
+514,41,Female,Unemployed,Low End,Below 125,Committed,Not purchased
+515,32,Female,Student,Low End,125 to 180,Complicated,Purchased
+516,24,Female,Self Employed,Average,220 and Above,Complicated,Purchased
+517,41,Male ,Student,Average,125 to 180,Complicated,Purchased
+518,31,Male ,Unemployed,Low End,180 to 220,Single,Not purchased
+519,31,Male ,Unemployed,Low End,220 and Above,Married,Purchased
+520,32,Female,Professional,High End,Below 125,Complicated,Purchased
+521,53,Female,Unemployed,High End,Below 125,Complicated,Not purchased
+522,20,Male ,Professional,Low End,180 to 220,Committed,Purchased
+523,28,Female,Professional,High End,125 to 180,Married,Not purchased
+524,58,Female,Unemployed,Low End,Below 125,Married,Not purchased
+525,53,Male ,Self Employed,Average,Below 125,Married,Purchased
+526,40,Male ,Professional,Low End,No Bike,Complicated,Not purchased
+527,59,Male ,Student,Average,Below 125,Committed,Purchased
+528,36,Female,Self Employed,Average,180 to 220,Married,Not purchased
+529,29,Female,Self Employed,High End,180 to 220,Committed,Purchased
+530,47,Male ,Unemployed,Average,No Bike,Married,Not purchased
+531,58,Male ,Self Employed,Average,No Bike,Committed,Not purchased
+532,45,Male ,Unemployed,High End,No Bike,Complicated,Purchased
+533,23,Male ,Professional,High End,125 to 180,Single,Purchased
+534,50,Female,Self Employed,Low End,No Bike,Committed,Not purchased
+535,26,Female,Self Employed,High End,Below 125,Single,Not purchased
+536,33,Female,Unemployed,Low End,Below 125,Committed,Not purchased
+537,59,Male ,Self Employed,High End,180 to 220,Single,Not purchased
+538,19,Male ,Self Employed,Low End,Below 125,Committed,Purchased
+539,30,Male ,Professional,Low End,Below 125,Married,Not purchased
+540,46,Male ,Professional,Low End,No Bike,Single,Not purchased
+541,52,Male ,Professional,Low End,180 to 220,Complicated,Not purchased
+542,41,Male ,Professional,Low End,180 to 220,Complicated,Purchased
+543,56,Male ,Professional,High End,Below 125,Single,Not purchased
+544,45,Female,Professional,Average,No Bike,Married,Not purchased
+545,32,Female,Student,High End,125 to 180,Complicated,Purchased
+546,52,Female,Self Employed,Low End,125 to 180,Single,Not purchased
+547,41,Male ,Self Employed,High End,220 and Above,Committed,Purchased
+548,59,Male ,Unemployed,Average,125 to 180,Complicated,Purchased
+549,22,Male ,Student,High End,Below 125,Committed,Not purchased
+550,28,Male ,Professional,Average,220 and Above,Married,Not purchased
+551,59,Male ,Professional,High End,Below 125,Complicated,Purchased
+552,53,Female,Unemployed,Average,Below 125,Married,Not purchased
+553,53,Male ,Unemployed,High End,No Bike,Married,Purchased
+554,32,Female,Unemployed,Low End,125 to 180,Complicated,Not purchased
+555,23,Male ,Student,High End,180 to 220,Married,Not purchased
+556,46,Female,Unemployed,High End,No Bike,Complicated,Not purchased
+557,50,Female,Unemployed,Low End,125 to 180,Single,Not purchased
+558,39,Female,Unemployed,Low End,220 and Above,Complicated,Not purchased
+559,22,Female,Student,High End,180 to 220,Single,Purchased
+560,59,Male ,Professional,Low End,125 to 180,Committed,Not purchased
+561,44,Female,Self Employed,Low End,Below 125,Married,Not purchased
+562,29,Male ,Student,High End,No Bike,Single,Not purchased
+563,19,Female,Unemployed,Average,No Bike,Complicated,Not purchased
+564,20,Female,Student,High End,220 and Above,Married,Not purchased
+565,38,Female,Unemployed,Low End,125 to 180,Married,Not purchased
+566,36,Male ,Self Employed,Average,No Bike,Committed,Not purchased
+567,56,Male ,Student,High End,180 to 220,Married,Not purchased
+568,47,Female,Unemployed,Average,No Bike,Complicated,Not purchased
+569,48,Male ,Unemployed,High End,180 to 220,Complicated,Purchased
+570,25,Female,Self Employed,High End,125 to 180,Single,Purchased
+571,31,Male ,Self Employed,Average,125 to 180,Single,Not purchased
+572,50,Male ,Student,High End,180 to 220,Married,Purchased
+573,43,Female,Professional,Average,No Bike,Committed,Not purchased
+574,21,Female,Student,High End,180 to 220,Single,Purchased
+575,20,Male ,Self Employed,Average,Below 125,Single,Purchased
+576,43,Female,Professional,Low End,Below 125,Single,Not purchased
+577,31,Female,Professional,Low End,No Bike,Single,Purchased
+578,53,Female,Self Employed,High End,125 to 180,Complicated,Not purchased
+579,43,Male ,Self Employed,Low End,220 and Above,Complicated,Purchased
+580,43,Female,Self Employed,Low End,220 and Above,Complicated,Not purchased
+581,31,Male ,Professional,Low End,125 to 180,Committed,Purchased
+582,31,Male ,Unemployed,Low End,Below 125,Married,Not purchased
+583,29,Male ,Self Employed,Average,180 to 220,Committed,Purchased
+584,37,Male ,Self Employed,High End,180 to 220,Married,Not purchased
+585,47,Male ,Professional,Average,No Bike,Single,Not purchased
+586,40,Female,Self Employed,Low End,No Bike,Single,Not purchased
+587,26,Male ,Self Employed,Average,Below 125,Complicated,Not purchased
+588,36,Male ,Self Employed,High End,125 to 180,Complicated,Not purchased
+589,40,Female,Student,High End,220 and Above,Married,Not purchased
+590,43,Female,Self Employed,Low End,220 and Above,Complicated,Not purchased
+591,39,Female,Unemployed,Average,No Bike,Married,Purchased
+592,53,Female,Self Employed,Average,125 to 180,Complicated,Not purchased
+593,48,Female,Professional,Average,125 to 180,Single,Not purchased
+594,51,Male ,Self Employed,Average,Below 125,Single,Not purchased
+595,19,Male ,Professional,Low End,No Bike,Married,Purchased
+596,19,Male ,Student,High End,125 to 180,Committed,Purchased
+597,46,Female,Professional,Average,Below 125,Complicated,Not purchased
+598,50,Female,Unemployed,Low End,No Bike,Married,Not purchased
+599,41,Male ,Unemployed,Low End,180 to 220,Complicated,Purchased
+600,23,Female,Professional,High End,No Bike,Complicated,Not purchased
+601,43,Male ,Self Employed,Low End,No Bike,Complicated,Not purchased
+602,33,Male ,Unemployed,High End,220 and Above,Complicated,Purchased
+603,23,Female,Unemployed,Low End,Below 125,Committed,Not purchased
+604,59,Male ,Student,High End,180 to 220,Single,Purchased
+605,26,Male ,Professional,Low End,180 to 220,Single,Not purchased
+606,60,Male ,Professional,Average,180 to 220,Married,Not purchased
+607,22,Female,Self Employed,Average,220 and Above,Complicated,Purchased
+608,59,Male ,Self Employed,High End,125 to 180,Single,Not purchased
+609,53,Male ,Self Employed,Average,Below 125,Committed,Purchased
+610,30,Male ,Professional,High End,Below 125,Complicated,Purchased
+611,29,Female,Self Employed,Average,No Bike,Committed,Purchased
+612,38,Male ,Professional,High End,220 and Above,Married,Not purchased
+613,45,Male ,Professional,Average,No Bike,Committed,Purchased
+614,25,Female,Unemployed,Low End,Below 125,Single,Not purchased
+615,60,Female,Self Employed,Average,180 to 220,Single,Not purchased
+616,40,Male ,Professional,High End,Below 125,Single,Not purchased
+617,57,Male ,Self Employed,High End,Below 125,Single,Not purchased
+618,31,Male ,Professional,Low End,220 and Above,Complicated,Purchased
+619,53,Male ,Self Employed,Average,No Bike,Single,Purchased
+620,18,Male ,Student,Average,220 and Above,Married,Purchased
+621,40,Male ,Self Employed,Low End,No Bike,Committed,Not purchased
+622,34,Female,Unemployed,Low End,No Bike,Committed,Purchased
+623,21,Female,Unemployed,Low End,No Bike,Committed,Purchased
+624,51,Male ,Student,High End,220 and Above,Complicated,Purchased
+625,24,Female,Professional,High End,180 to 220,Complicated,Not purchased
+626,19,Female,Unemployed,Average,No Bike,Complicated,Not purchased
+627,37,Female,Student,Low End,220 and Above,Committed,Not purchased
+628,23,Female,Professional,High End,125 to 180,Married,Purchased
+629,24,Female,Professional,Low End,180 to 220,Committed,Purchased
+630,30,Male ,Self Employed,High End,125 to 180,Single,Purchased
+631,57,Female,Professional,High End,220 and Above,Single,Not purchased
+632,32,Male ,Professional,Low End,No Bike,Single,Purchased
+633,18,Female,Professional,Average,Below 125,Single,Purchased
+634,20,Female,Professional,Low End,Below 125,Single,Not purchased
+635,19,Male ,Student,Average,Below 125,Complicated,Not purchased
+636,53,Male ,Unemployed,Low End,Below 125,Complicated,Not purchased
+637,30,Male ,Professional,High End,No Bike,Single,Not purchased
+638,48,Female,Professional,Average,No Bike,Complicated,Not purchased
+639,26,Male ,Self Employed,Low End,No Bike,Single,Not purchased
+640,54,Male ,Professional,High End,180 to 220,Complicated,Purchased
+641,45,Female,Self Employed,Low End,125 to 180,Complicated,Not purchased
+642,34,Female,Unemployed,Average,No Bike,Single,Not purchased
+643,49,Male ,Self Employed,Average,220 and Above,Single,Purchased
+644,54,Male ,Student,Average,Below 125,Complicated,Purchased
+645,45,Female,Self Employed,High End,180 to 220,Married,Not purchased
+646,59,Female,Professional,Low End,Below 125,Single,Not purchased
+647,53,Male ,Student,High End,220 and Above,Married,Not purchased
+648,59,Female,Unemployed,Low End,125 to 180,Married,Not purchased
+649,28,Female,Self Employed,Average,Below 125,Single,Not purchased
+650,39,Female,Self Employed,Low End,Below 125,Single,Not purchased
+651,55,Male ,Student,Average,Below 125,Complicated,Purchased
+652,36,Male ,Professional,Low End,Below 125,Complicated,Not purchased
+653,42,Male ,Student,High End,220 and Above,Single,Not purchased
+654,26,Male ,Self Employed,Low End,125 to 180,Complicated,Not purchased
+655,38,Male ,Professional,Low End,Below 125,Married,Not purchased
+656,35,Female,Unemployed,Average,Below 125,Single,Purchased
+657,41,Female,Self Employed,Average,No Bike,Married,Not purchased
+658,21,Male ,Student,Low End,125 to 180,Single,Not purchased
+659,47,Female,Unemployed,Low End,125 to 180,Complicated,Not purchased
+660,47,Female,Unemployed,Low End,180 to 220,Single,Not purchased
+661,48,Female,Self Employed,Average,Below 125,Single,Not purchased
+662,46,Male ,Professional,Low End,No Bike,Married,Not purchased
+663,24,Female,Unemployed,Low End,No Bike,Complicated,Purchased
+664,33,Female,Student,Average,No Bike,Committed,Not purchased
+665,59,Male ,Student,High End,125 to 180,Single,Not purchased
+666,29,Male ,Unemployed,Average,220 and Above,Complicated,Not purchased
+667,33,Male ,Unemployed,Low End,Below 125,Committed,Purchased
+668,33,Male ,Professional,Average,No Bike,Married,Not purchased
+669,51,Male ,Unemployed,High End,220 and Above,Complicated,Purchased
+670,40,Female,Student,Low End,No Bike,Single,Not purchased
+671,43,Male ,Student,Average,220 and Above,Complicated,Purchased
+672,28,Male ,Unemployed,Average,125 to 180,Complicated,Purchased
+673,25,Female,Student,High End,220 and Above,Complicated,Not purchased
+674,59,Male ,Professional,Low End,Below 125,Single,Not purchased
+675,21,Female,Unemployed,Average,125 to 180,Single,Not purchased
+676,32,Male ,Unemployed,Low End,No Bike,Married,Not purchased
+677,31,Female,Student,High End,220 and Above,Single,Not purchased
+678,24,Male ,Self Employed,High End,125 to 180,Single,Purchased
+679,45,Male ,Self Employed,Average,No Bike,Married,Not purchased
+680,58,Male ,Unemployed,Low End,220 and Above,Complicated,Not purchased
+681,45,Male ,Self Employed,Average,No Bike,Committed,Not purchased
+682,37,Female,Student,High End,180 to 220,Married,Not purchased
+683,52,Male ,Self Employed,High End,No Bike,Committed,Not purchased
+684,33,Female,Professional,Low End,Below 125,Single,Not purchased
+685,48,Female,Self Employed,High End,220 and Above,Committed,Not purchased
+686,18,Male ,Student,High End,Below 125,Married,Purchased
+687,21,Male ,Unemployed,High End,220 and Above,Committed,Purchased
+688,26,Female,Student,Low End,Below 125,Complicated,Not purchased
+689,20,Male ,Unemployed,Low End,Below 125,Single,Not purchased
+690,52,Female,Self Employed,High End,220 and Above,Committed,Not purchased
+691,50,Female,Unemployed,Low End,No Bike,Committed,Not purchased
+692,46,Female,Professional,Low End,125 to 180,Complicated,Not purchased
+693,43,Female,Unemployed,Average,Below 125,Single,Not purchased
+694,23,Female,Student,Low End,125 to 180,Complicated,Not purchased
+695,40,Female,Self Employed,Low End,125 to 180,Married,Purchased
+696,47,Male ,Self Employed,High End,Below 125,Single,Purchased
+697,50,Female,Professional,Average,Below 125,Complicated,Not purchased
+698,38,Male ,Self Employed,High End,No Bike,Committed,Not purchased
+699,47,Female,Self Employed,Low End,No Bike,Married,Not purchased
+700,60,Female,Professional,Average,No Bike,Married,Not purchased
+701,28,Male ,Self Employed,Low End,125 to 180,Married,Not purchased
+702,46,Male ,Unemployed,High End,Below 125,Single,Not purchased
+703,48,Male ,Student,Average,No Bike,Committed,Purchased
+704,29,Female,Professional,High End,125 to 180,Single,Not purchased
+705,57,Female,Professional,High End,No Bike,Committed,Not purchased
+706,60,Female,Professional,Average,Below 125,Married,Not purchased
+707,51,Male ,Professional,High End,Below 125,Committed,Not purchased
+708,37,Male ,Professional,Average,180 to 220,Single,Not purchased
+709,41,Female,Professional,Low End,125 to 180,Married,Not purchased
+710,36,Male ,Professional,High End,125 to 180,Committed,Purchased
+711,44,Female,Professional,Low End,No Bike,Committed,Not purchased
+712,40,Male ,Self Employed,Low End,No Bike,Committed,Not purchased
+713,18,Male ,Self Employed,High End,220 and Above,Committed,Purchased
+714,58,Male ,Unemployed,Average,Below 125,Married,Not purchased
+715,24,Female,Unemployed,High End,Below 125,Committed,Purchased
+716,41,Female,Unemployed,High End,220 and Above,Married,Not purchased
+717,41,Female,Unemployed,Average,Below 125,Single,Not purchased
+718,53,Male ,Unemployed,High End,180 to 220,Committed,Not purchased
+719,39,Male ,Professional,Average,220 and Above,Single,Purchased
+720,19,Male ,Professional,High End,125 to 180,Committed,Not purchased
+721,31,Female,Student,High End,220 and Above,Committed,Not purchased
+722,44,Male ,Professional,Average,180 to 220,Single,Purchased
+723,25,Female,Student,Average,No Bike,Committed,Purchased
+724,52,Male ,Professional,High End,Below 125,Complicated,Purchased
+725,28,Female,Student,High End,No Bike,Committed,Purchased
+726,24,Female,Unemployed,Low End,Below 125,Complicated,Purchased
+727,43,Male ,Student,Average,125 to 180,Complicated,Purchased
+728,40,Female,Self Employed,Low End,180 to 220,Single,Not purchased
+729,27,Female,Unemployed,Average,180 to 220,Committed,Not purchased
+730,55,Female,Professional,Average,125 to 180,Married,Not purchased
+731,20,Female,Student,Low End,No Bike,Single,Not purchased
+732,60,Female,Unemployed,High End,125 to 180,Married,Not purchased
+733,24,Female,Professional,Low End,Below 125,Committed,Purchased
+734,50,Female,Professional,Average,No Bike,Complicated,Not purchased
+735,33,Male ,Self Employed,Average,Below 125,Complicated,Not purchased
+736,37,Male ,Unemployed,Average,220 and Above,Committed,Not purchased
+737,37,Female,Professional,Low End,220 and Above,Married,Purchased
+738,32,Female,Unemployed,High End,220 and Above,Complicated,Not purchased
+739,33,Female,Unemployed,Low End,Below 125,Married,Not purchased
+740,58,Male ,Unemployed,Average,180 to 220,Complicated,Purchased
+741,58,Male ,Self Employed,High End,125 to 180,Committed,Not purchased
+742,34,Male ,Unemployed,Low End,Below 125,Single,Purchased
+743,43,Male ,Professional,Low End,No Bike,Committed,Not purchased
+744,21,Female,Self Employed,Low End,180 to 220,Complicated,Purchased
+745,59,Female,Self Employed,Average,180 to 220,Complicated,Not purchased
+746,31,Female,Student,High End,Below 125,Single,Not purchased
+747,21,Female,Self Employed,Average,125 to 180,Complicated,Not purchased
+748,18,Male ,Self Employed,Low End,220 and Above,Complicated,Not purchased
+749,32,Male ,Professional,High End,180 to 220,Committed,Not purchased
+750,45,Male ,Self Employed,Low End,No Bike,Married,Not purchased
+751,24,Female,Self Employed,Average,No Bike,Married,Purchased
+752,55,Male ,Self Employed,High End,Below 125,Committed,Purchased
+753,46,Male ,Professional,High End,No Bike,Single,Purchased
+754,31,Female,Self Employed,Low End,220 and Above,Single,Not purchased
+755,18,Male ,Student,High End,125 to 180,Complicated,Not purchased
+756,38,Male ,Unemployed,Average,220 and Above,Married,Not purchased
+757,37,Female,Professional,High End,No Bike,Married,Not purchased
+758,47,Female,Unemployed,Average,125 to 180,Single,Not purchased
+759,21,Female,Self Employed,Average,Below 125,Single,Purchased
+760,57,Female,Professional,High End,Below 125,Married,Not purchased
+761,19,Female,Unemployed,High End,No Bike,Committed,Purchased
+762,54,Female,Self Employed,High End,Below 125,Complicated,Not purchased
+763,34,Male ,Professional,Low End,Below 125,Single,Purchased
+764,27,Male ,Unemployed,High End,125 to 180,Single,Purchased
+765,24,Male ,Professional,Average,No Bike,Committed,Not purchased
+766,55,Male ,Professional,Low End,125 to 180,Committed,Not purchased
+767,40,Female,Self Employed,Low End,180 to 220,Complicated,Not purchased
+768,47,Male ,Student,Average,220 and Above,Single,Purchased
+769,49,Female,Professional,Average,Below 125,Married,Not purchased
+770,30,Male ,Professional,Average,125 to 180,Married,Not purchased
+771,52,Male ,Professional,Low End,125 to 180,Married,Not purchased
+772,28,Male ,Professional,Low End,125 to 180,Married,Purchased
+773,39,Female,Unemployed,Average,125 to 180,Single,Purchased
+774,25,Female,Professional,High End,Below 125,Single,Not purchased
+775,60,Male ,Self Employed,Average,No Bike,Single,Not purchased
+776,38,Female,Professional,High End,180 to 220,Single,Not purchased
+777,27,Female,Self Employed,Average,No Bike,Married,Not purchased
+778,42,Female,Professional,Average,Below 125,Married,Not purchased
+779,48,Female,Unemployed,High End,180 to 220,Complicated,Not purchased
+780,44,Female,Professional,High End,Below 125,Married,Not purchased
+781,54,Female,Professional,Low End,220 and Above,Married,Not purchased
+782,24,Female,Student,High End,180 to 220,Married,Purchased
+783,38,Male ,Self Employed,High End,220 and Above,Single,Not purchased
+784,19,Male ,Self Employed,Low End,220 and Above,Married,Purchased
+785,24,Male ,Student,Low End,220 and Above,Committed,Purchased
+786,56,Male ,Student,Average,125 to 180,Single,Not purchased
+787,30,Male ,Unemployed,Low End,125 to 180,Married,Not purchased
+788,27,Female,Student,Low End,No Bike,Committed,Purchased
+789,39,Female,Student,Average,125 to 180,Single,Purchased
+790,48,Male ,Student,Average,180 to 220,Married,Not purchased
+791,32,Female,Unemployed,Low End,180 to 220,Single,Not purchased
+792,46,Male ,Self Employed,High End,No Bike,Single,Not purchased
+793,47,Female,Unemployed,Average,No Bike,Single,Not purchased
+794,41,Female,Professional,Average,Below 125,Complicated,Not purchased
+795,30,Male ,Self Employed,Low End,220 and Above,Committed,Purchased
+796,44,Male ,Student,High End,220 and Above,Complicated,Purchased
+797,34,Female,Professional,Low End,125 to 180,Complicated,Purchased
+798,32,Female,Unemployed,Average,Below 125,Committed,Not purchased
+799,39,Male ,Self Employed,High End,125 to 180,Married,Purchased
+800,47,Female,Self Employed,High End,125 to 180,Single,Not purchased
+801,32,Female,Self Employed,Low End,180 to 220,Married,Not purchased
+802,60,Female,Professional,High End,Below 125,Married,Not purchased
+803,38,Female,Unemployed,Low End,Below 125,Married,Not purchased
+804,51,Male ,Self Employed,High End,Below 125,Committed,Purchased
+805,49,Female,Unemployed,Low End,180 to 220,Committed,Not purchased
+806,54,Female,Unemployed,High End,Below 125,Committed,Not purchased
+807,24,Male ,Professional,High End,Below 125,Committed,Not purchased
+808,58,Male ,Professional,High End,Below 125,Committed,Not purchased
+809,55,Male ,Unemployed,Low End,180 to 220,Committed,Not purchased
+810,34,Male ,Self Employed,High End,180 to 220,Committed,Purchased
+811,35,Male ,Unemployed,Low End,No Bike,Complicated,Purchased
+812,50,Male ,Unemployed,High End,Below 125,Complicated,Not purchased
+813,33,Male ,Self Employed,Low End,Below 125,Committed,Purchased
+814,24,Male ,Unemployed,High End,220 and Above,Committed,Purchased
+815,47,Male ,Unemployed,Low End,No Bike,Complicated,Not purchased
+816,18,Male ,Student,Low End,No Bike,Married,Not purchased
+817,32,Male ,Self Employed,Low End,220 and Above,Complicated,Not purchased
+818,38,Male ,Self Employed,High End,180 to 220,Committed,Not purchased
+819,31,Female,Unemployed,High End,125 to 180,Single,Purchased
+820,21,Female,Self Employed,Low End,180 to 220,Complicated,Purchased
+821,33,Female,Student,Low End,No Bike,Married,Purchased
+822,38,Male ,Self Employed,High End,Below 125,Complicated,Not purchased
+823,31,Male ,Professional,Low End,180 to 220,Complicated,Not purchased
+824,50,Male ,Professional,Average,220 and Above,Complicated,Not purchased
+825,50,Female,Self Employed,High End,125 to 180,Married,Not purchased
+826,23,Female,Student,Average,220 and Above,Committed,Purchased
+827,41,Male ,Self Employed,Low End,180 to 220,Complicated,Purchased
+828,44,Female,Self Employed,High End,No Bike,Committed,Not purchased
+829,43,Female,Self Employed,Average,125 to 180,Married,Not purchased
+830,20,Female,Self Employed,Low End,125 to 180,Committed,Purchased
+831,21,Male ,Self Employed,Average,Below 125,Committed,Not purchased
+832,45,Male ,Student,Low End,180 to 220,Married,Purchased
+833,33,Female,Professional,Average,180 to 220,Committed,Not purchased
+834,41,Female,Self Employed,Average,Below 125,Married,Not purchased
+835,51,Female,Professional,Average,220 and Above,Complicated,Not purchased
+836,25,Male ,Student,Low End,220 and Above,Complicated,Purchased
+837,23,Male ,Professional,Average,No Bike,Committed,Not purchased
+838,29,Female,Self Employed,Low End,125 to 180,Complicated,Not purchased
+839,38,Male ,Self Employed,High End,125 to 180,Committed,Not purchased
+840,23,Male ,Professional,High End,No Bike,Committed,Purchased
+841,51,Male ,Student,High End,No Bike,Single,Purchased
+842,58,Female,Professional,Average,180 to 220,Single,Not purchased
+843,38,Male ,Self Employed,High End,125 to 180,Married,Not purchased
+844,26,Male ,Professional,Average,Below 125,Single,Purchased
+845,39,Male ,Self Employed,Average,Below 125,Committed,Not purchased
+846,43,Male ,Professional,Low End,125 to 180,Committed,Not purchased
+847,26,Male ,Student,Low End,125 to 180,Complicated,Purchased
+848,52,Male ,Professional,Average,125 to 180,Complicated,Not purchased
+849,36,Male ,Unemployed,Average,Below 125,Single,Not purchased
+850,40,Male ,Professional,Average,180 to 220,Committed,Purchased
+851,42,Female,Professional,Low End,180 to 220,Single,Not purchased
+852,41,Female,Professional,Low End,No Bike,Committed,Not purchased
+853,34,Male ,Self Employed,Average,220 and Above,Complicated,Purchased
+854,28,Male ,Self Employed,High End,125 to 180,Committed,Purchased
+855,52,Female,Professional,Average,125 to 180,Committed,Not purchased
+856,60,Female,Self Employed,Average,Below 125,Married,Not purchased
+857,28,Male ,Professional,Low End,125 to 180,Complicated,Purchased
+858,37,Female,Professional,Low End,No Bike,Single,Not purchased
+859,35,Female,Student,High End,No Bike,Married,Not purchased
+860,32,Female,Unemployed,Average,220 and Above,Single,Purchased
+861,49,Male ,Unemployed,Average,No Bike,Single,Purchased
+862,51,Male ,Self Employed,Average,125 to 180,Single,Purchased
+863,38,Female,Unemployed,High End,125 to 180,Committed,Purchased
+864,34,Female,Student,Average,220 and Above,Committed,Not purchased
+865,36,Male ,Unemployed,Average,Below 125,Complicated,Not purchased
+866,20,Female,Unemployed,Average,No Bike,Complicated,Not purchased
+867,40,Female,Professional,Average,No Bike,Committed,Purchased
+868,19,Female,Unemployed,High End,180 to 220,Married,Not purchased
+869,58,Male ,Unemployed,Low End,180 to 220,Married,Purchased
+870,31,Male ,Professional,Low End,125 to 180,Committed,Not purchased
+871,37,Female,Student,Average,125 to 180,Complicated,Purchased
+872,29,Female,Student,High End,Below 125,Single,Purchased
+873,29,Female,Student,Average,Below 125,Complicated,Not purchased
+874,23,Male ,Self Employed,Low End,Below 125,Committed,Purchased
+875,49,Female,Professional,Average,220 and Above,Committed,Not purchased
+876,49,Male ,Self Employed,High End,220 and Above,Single,Not purchased
+877,27,Male ,Unemployed,Average,180 to 220,Committed,Purchased
+878,27,Female,Self Employed,Average,Below 125,Single,Purchased
+879,25,Male ,Student,Average,180 to 220,Complicated,Purchased
+880,34,Male ,Self Employed,High End,No Bike,Committed,Not purchased
+881,22,Female,Professional,Low End,180 to 220,Complicated,Purchased
+882,41,Male ,Self Employed,High End,Below 125,Committed,Not purchased
+883,50,Male ,Unemployed,High End,Below 125,Single,Purchased
+884,18,Male ,Student,Average,125 to 180,Single,Not purchased
+885,22,Male ,Unemployed,High End,125 to 180,Committed,Not purchased
+886,48,Female,Unemployed,Low End,Below 125,Committed,Not purchased
+887,60,Male ,Self Employed,Average,Below 125,Committed,Purchased
+888,50,Female,Unemployed,Low End,220 and Above,Single,Not purchased
+889,22,Male ,Unemployed,Low End,220 and Above,Married,Not purchased
+890,55,Female,Self Employed,Average,Below 125,Complicated,Not purchased
+891,47,Female,Self Employed,High End,Below 125,Committed,Not purchased
+892,41,Male ,Self Employed,High End,Below 125,Married,Purchased
+893,42,Male ,Self Employed,Low End,180 to 220,Complicated,Not purchased
+894,40,Male ,Unemployed,Average,No Bike,Committed,Not purchased
+895,35,Female,Unemployed,Low End,220 and Above,Married,Purchased
+896,28,Male ,Student,High End,180 to 220,Complicated,Purchased
+897,23,Female,Student,High End,125 to 180,Single,Purchased
+898,42,Male ,Professional,Average,125 to 180,Complicated,Not purchased
+899,34,Female,Self Employed,Average,220 and Above,Committed,Not purchased
+900,24,Female,Unemployed,Low End,180 to 220,Single,Purchased
+901,29,Female,Self Employed,Low End,220 and Above,Committed,Purchased
+902,35,Male ,Unemployed,Average,180 to 220,Complicated,Not purchased
+903,25,Female,Professional,Average,No Bike,Complicated,Not purchased
+904,22,Male ,Student,High End,125 to 180,Married,Not purchased
+905,59,Male ,Professional,High End,Below 125,Complicated,Purchased
+906,28,Female,Self Employed,Average,125 to 180,Committed,Purchased
+907,43,Female,Self Employed,Low End,Below 125,Single,Not purchased
+908,51,Male ,Student,High End,125 to 180,Single,Purchased
+909,60,Female,Self Employed,High End,125 to 180,Married,Not purchased
+910,53,Female,Unemployed,Average,125 to 180,Complicated,Not purchased
+911,54,Female,Professional,Low End,180 to 220,Married,Not purchased
+912,59,Female,Unemployed,Low End,Below 125,Committed,Not purchased
+913,45,Male ,Unemployed,Low End,No Bike,Married,Not purchased
+914,31,Female,Self Employed,Average,125 to 180,Complicated,Purchased
+915,21,Male ,Unemployed,Average,125 to 180,Single,Not purchased
+916,51,Male ,Unemployed,Average,No Bike,Committed,Purchased
+917,37,Female,Professional,High End,220 and Above,Single,Purchased
+918,21,Male ,Self Employed,High End,No Bike,Married,Purchased
+919,60,Female,Unemployed,High End,125 to 180,Married,Not purchased
+920,38,Female,Unemployed,High End,220 and Above,Complicated,Not purchased
+921,59,Male ,Unemployed,Average,180 to 220,Committed,Not purchased
+922,26,Female,Self Employed,Low End,220 and Above,Married,Purchased
+923,43,Female,Professional,High End,180 to 220,Married,Not purchased
+924,47,Female,Professional,High End,125 to 180,Complicated,Not purchased
+925,37,Male ,Self Employed,High End,Below 125,Married,Not purchased
+926,40,Male ,Professional,High End,180 to 220,Married,Not purchased
+927,24,Female,Professional,Average,No Bike,Single,Not purchased
+928,43,Female,Self Employed,Average,180 to 220,Single,Not purchased
+929,20,Female,Unemployed,Low End,125 to 180,Single,Purchased
+930,23,Male ,Student,Average,Below 125,Committed,Purchased
+931,25,Female,Professional,Average,No Bike,Committed,Not purchased
+932,43,Female,Unemployed,Low End,180 to 220,Single,Not purchased
+933,49,Male ,Student,High End,No Bike,Single,Not purchased
+934,59,Female,Self Employed,Low End,No Bike,Married,Not purchased
+935,21,Male ,Unemployed,Average,220 and Above,Single,Not purchased
+936,33,Female,Professional,Low End,Below 125,Committed,Not purchased
+937,19,Male ,Student,Average,No Bike,Single,Purchased
+938,46,Male ,Unemployed,Average,Below 125,Committed,Not purchased
+939,52,Female,Self Employed,High End,125 to 180,Married,Not purchased
+940,32,Male ,Professional,High End,220 and Above,Complicated,Not purchased
+941,32,Female,Student,Average,180 to 220,Single,Not purchased
+942,41,Female,Unemployed,High End,125 to 180,Single,Not purchased
+943,28,Male ,Unemployed,High End,No Bike,Complicated,Not purchased
+944,39,Female,Self Employed,Average,No Bike,Complicated,Purchased
+945,51,Male ,Student,Average,Below 125,Complicated,Not purchased
+946,45,Female,Self Employed,Low End,Below 125,Single,Not purchased
+947,57,Male ,Professional,Average,220 and Above,Single,Purchased
+948,30,Female,Professional,Low End,No Bike,Complicated,Not purchased
+949,19,Female,Unemployed,Low End,125 to 180,Single,Not purchased
+950,42,Female,Self Employed,High End,No Bike,Single,Not purchased
+951,24,Male ,Professional,High End,125 to 180,Married,Not purchased
+952,18,Male ,Student,High End,180 to 220,Single,Purchased
+953,34,Male ,Unemployed,High End,125 to 180,Committed,Purchased
+954,45,Female,Unemployed,Average,125 to 180,Married,Not purchased
+955,39,Female,Self Employed,Average,No Bike,Married,Not purchased
+956,20,Male ,Professional,Average,125 to 180,Committed,Not purchased
+957,41,Male ,Professional,Average,No Bike,Complicated,Not purchased
+958,43,Male ,Professional,High End,125 to 180,Committed,Not purchased
+959,20,Male ,Self Employed,Low End,180 to 220,Single,Purchased
+960,19,Male ,Self Employed,Average,No Bike,Complicated,Purchased
+961,20,Male ,Professional,Low End,220 and Above,Complicated,Not purchased
+962,25,Male ,Professional,Average,180 to 220,Complicated,Not purchased
+963,59,Male ,Professional,Low End,220 and Above,Committed,Not purchased
+964,44,Female,Self Employed,Average,No Bike,Single,Not purchased
+965,26,Female,Unemployed,Low End,125 to 180,Committed,Purchased
+966,34,Female,Student,Average,Below 125,Married,Purchased
+967,40,Male ,Self Employed,High End,No Bike,Complicated,Not purchased
+968,21,Male ,Unemployed,Low End,180 to 220,Complicated,Purchased
+969,29,Male ,Professional,Average,220 and Above,Married,Purchased
+970,32,Female,Professional,Average,Below 125,Complicated,Not purchased
+971,36,Female,Unemployed,High End,No Bike,Committed,Purchased
+972,59,Female,Self Employed,Low End,Below 125,Complicated,Not purchased
+973,55,Female,Unemployed,Low End,Below 125,Single,Not purchased
+974,55,Female,Unemployed,Low End,180 to 220,Committed,Not purchased
+975,37,Female,Unemployed,Average,180 to 220,Committed,Not purchased
+976,60,Male ,Student,Low End,180 to 220,Married,Purchased
+977,60,Male ,Professional,High End,Below 125,Married,Purchased
+978,24,Female,Unemployed,High End,Below 125,Complicated,Purchased
+979,47,Female,Unemployed,High End,220 and Above,Married,Not purchased
+980,31,Male ,Unemployed,Average,Below 125,Single,Purchased
+981,44,Female,Unemployed,Low End,No Bike,Married,Not purchased
+982,51,Female,Professional,High End,125 to 180,Single,Not purchased
+983,57,Female,Professional,Average,220 and Above,Complicated,Not purchased
+984,57,Female,Self Employed,High End,125 to 180,Single,Not purchased
+985,53,Male ,Student,Low End,125 to 180,Complicated,Purchased
+986,18,Male ,Student,High End,180 to 220,Married,Not purchased
+987,51,Female,Self Employed,Low End,220 and Above,Complicated,Not purchased
+988,33,Male ,Unemployed,Low End,Below 125,Complicated,Not purchased
+989,32,Male ,Unemployed,Average,Below 125,Committed,Not purchased
+990,55,Female,Professional,Average,No Bike,Married,Not purchased
+991,40,Male ,Unemployed,Low End,220 and Above,Complicated,Not purchased
+992,55,Male ,Unemployed,High End,125 to 180,Committed,Not purchased
+993,56,Male ,Self Employed,Average,Below 125,Committed,Not purchased
+994,55,Male ,Self Employed,Low End,220 and Above,Married,Purchased
+995,37,Female,Student,Average,No Bike,Complicated,Purchased
+996,56,Male ,Self Employed,High End,125 to 180,Married,Not purchased
+997,51,Male ,Student,Average,No Bike,Married,Not purchased
+998,55,Female,Self Employed,High End,125 to 180,Single,Not purchased
+999,45,Male ,Professional,High End,220 and Above,Committed,Not purchased
+1000,35,Male ,Unemployed,High End,220 and Above,Married,Purchased
+1001,24,Female,Student,High End,220 and Above,Single,Purchased
+1002,19,Female,Student,High End,125 to 180,Complicated,Purchased
+1003,24,Female,Student,High End,180 to 220,Complicated,Purchased
+1004,18,Male ,Student,High End,180 to 220,Committed,Purchased
+1005,23,Female,Student,High End,Below 125,Single,Purchased
+1006,18,Male ,Student,High End,No Bike,Complicated,Purchased
+1007,22,Female,Student,High End,180 to 220,Single,Purchased
+1008,21,Female,Student,High End,180 to 220,Single,Purchased
+1009,19,Male ,Student,High End,125 to 180,Committed,Purchased
+1010,18,Male ,Student,High End,Below 125,Married,Purchased
+1011,24,Female,Student,High End,180 to 220,Married,Purchased
+1012,23,Female,Student,High End,125 to 180,Single,Purchased
+1013,18,Male ,Student,High End,180 to 220,Single,Purchased
+1014,24,Female,Student,High End,220 and Above,Single,Purchased
+1015,19,Female,Student,High End,125 to 180,Complicated,Purchased
+1016,24,Female,Student,High End,180 to 220,Complicated,Purchased
+1017,18,Male ,Student,High End,180 to 220,Committed,Purchased
+1018,23,Female,Student,High End,Below 125,Single,Purchased
+1019,18,Male ,Student,High End,No Bike,Complicated,Purchased
+1020,22,Female,Student,High End,180 to 220,Single,Purchased
+1021,21,Female,Student,High End,180 to 220,Single,Purchased
+1022,19,Male ,Student,High End,125 to 180,Committed,Purchased
+1023,18,Male ,Student,High End,Below 125,Married,Purchased
+1024,24,Female,Student,High End,180 to 220,Married,Purchased
+1025,23,Female,Student,High End,125 to 180,Single,Purchased
+1026,18,Male ,Student,High End,180 to 220,Single,Purchased
+1027,24,Female,Student,High End,220 and Above,Single,Purchased
+1028,19,Female,Student,High End,125 to 180,Complicated,Purchased
+1029,24,Female,Student,High End,180 to 220,Complicated,Purchased
+1030,18,Male ,Student,High End,180 to 220,Committed,Purchased
+1031,23,Female,Student,High End,Below 125,Single,Purchased
+1032,18,Male ,Student,High End,No Bike,Complicated,Purchased
+1033,22,Female,Student,High End,180 to 220,Single,Purchased
+1034,21,Female,Student,High End,180 to 220,Single,Purchased
+1035,19,Male ,Student,High End,125 to 180,Committed,Purchased
+1036,18,Male ,Student,High End,Below 125,Married,Purchased
+1037,24,Female,Student,High End,180 to 220,Married,Purchased
+1038,23,Female,Student,High End,125 to 180,Single,Purchased
+1039,18,Male ,Student,High End,180 to 220,Single,Purchased
+1040,24,Female,Student,High End,220 and Above,Single,Purchased
+1041,19,Female,Student,High End,125 to 180,Complicated,Purchased
+1042,24,Female,Student,High End,180 to 220,Complicated,Purchased
+1043,18,Male ,Student,High End,180 to 220,Committed,Purchased
+1044,23,Female,Student,High End,Below 125,Single,Purchased
+1045,18,Male ,Student,High End,No Bike,Complicated,Purchased
+1046,22,Female,Student,High End,180 to 220,Single,Purchased
+1047,21,Female,Student,High End,180 to 220,Single,Purchased
+1048,19,Male ,Student,High End,125 to 180,Committed,Purchased
+1049,18,Male ,Student,High End,Below 125,Married,Purchased
+1050,24,Female,Student,High End,180 to 220,Married,Purchased
+1051,23,Female,Student,High End,125 to 180,Single,Purchased
+1052,18,Male ,Student,High End,180 to 220,Single,Purchased
+1053,24,Female,Student,High End,220 and Above,Single,Purchased
+1054,19,Female,Student,High End,125 to 180,Complicated,Purchased
+1055,24,Female,Student,High End,180 to 220,Complicated,Purchased
+1056,18,Male ,Student,High End,180 to 220,Committed,Purchased
+1057,23,Female,Student,High End,Below 125,Single,Purchased
+1058,18,Male ,Student,High End,No Bike,Complicated,Purchased
+1059,22,Female,Student,High End,180 to 220,Single,Purchased
+1060,21,Female,Student,High End,180 to 220,Single,Purchased
+1061,19,Male ,Student,High End,125 to 180,Committed,Purchased
+1062,18,Male ,Student,High End,Below 125,Married,Purchased
+1063,24,Female,Student,High End,180 to 220,Married,Purchased
+1064,23,Female,Student,High End,125 to 180,Single,Purchased
+1065,18,Male ,Student,High End,180 to 220,Single,Purchased
+1066,24,Female,Student,High End,220 and Above,Single,Purchased
+1067,19,Female,Student,High End,125 to 180,Complicated,Purchased
+1068,24,Female,Student,High End,180 to 220,Complicated,Purchased
+1069,18,Male ,Student,High End,180 to 220,Committed,Purchased
+1070,23,Female,Student,High End,Below 125,Single,Purchased
+1071,18,Male ,Student,High End,No Bike,Complicated,Purchased
+1072,22,Female,Student,High End,180 to 220,Single,Purchased
+1073,21,Female,Student,High End,180 to 220,Single,Purchased
+1074,19,Male ,Student,High End,125 to 180,Committed,Purchased
+1075,18,Male ,Student,High End,Below 125,Married,Purchased
+1076,24,Female,Student,High End,180 to 220,Married,Purchased
+1077,23,Female,Student,High End,125 to 180,Single,Purchased
+1078,18,Male ,Student,High End,180 to 220,Single,Purchased
+1079,24,Female,Student,High End,220 and Above,Single,Purchased
+1080,19,Female,Student,High End,125 to 180,Complicated,Purchased
+1081,24,Female,Student,High End,180 to 220,Complicated,Purchased
+1082,18,Male ,Student,High End,180 to 220,Committed,Purchased
+1083,23,Female,Student,High End,Below 125,Single,Purchased
+1084,18,Male ,Student,High End,No Bike,Complicated,Purchased
+1085,22,Female,Student,High End,180 to 220,Single,Purchased
+1086,21,Female,Student,High End,180 to 220,Single,Purchased
+1087,19,Male ,Student,High End,125 to 180,Committed,Purchased
+1088,18,Male ,Student,High End,Below 125,Married,Purchased
+1089,24,Female,Student,High End,180 to 220,Married,Purchased
+1090,23,Female,Student,High End,125 to 180,Single,Purchased
+1091,18,Male ,Student,High End,180 to 220,Single,Purchased
+1092,24,Female,Student,High End,220 and Above,Single,Purchased
+1093,19,Female,Student,High End,125 to 180,Complicated,Purchased
+1094,24,Female,Student,High End,180 to 220,Complicated,Purchased
+1095,18,Male ,Student,High End,180 to 220,Committed,Purchased
+1096,23,Female,Student,High End,Below 125,Single,Purchased
+1097,18,Male ,Student,High End,No Bike,Complicated,Purchased
+1098,22,Female,Student,High End,180 to 220,Single,Purchased
+1099,21,Female,Student,High End,180 to 220,Single,Purchased
+1100,19,Male ,Student,High End,125 to 180,Committed,Purchased
+1101,18,Male ,Student,High End,Below 125,Married,Purchased
+1102,24,Female,Student,High End,180 to 220,Married,Purchased
+1103,23,Female,Student,High End,125 to 180,Single,Purchased
+1104,18,Male ,Student,High End,180 to 220,Single,Purchased
+1105,24,Female,Student,High End,220 and Above,Single,Purchased
+1106,19,Female,Student,High End,125 to 180,Complicated,Purchased
+1107,24,Female,Student,High End,180 to 220,Complicated,Purchased
+1108,18,Male ,Student,High End,180 to 220,Committed,Purchased
+1109,23,Female,Student,High End,Below 125,Single,Purchased
+1110,18,Male ,Student,High End,No Bike,Complicated,Purchased
+1111,22,Female,Student,High End,180 to 220,Single,Purchased
+1112,21,Female,Student,High End,180 to 220,Single,Purchased
+1113,19,Male ,Student,High End,125 to 180,Committed,Purchased
+1114,18,Male ,Student,High End,Below 125,Married,Purchased
+1115,24,Female,Student,High End,180 to 220,Married,Purchased
+1116,23,Female,Student,High End,125 to 180,Single,Purchased
+1117,18,Male ,Student,High End,180 to 220,Single,Purchased
+1118,24,Female,Student,High End,220 and Above,Single,Purchased
+1119,19,Female,Student,High End,125 to 180,Complicated,Purchased
+1120,24,Female,Student,High End,180 to 220,Complicated,Purchased
+1121,18,Male ,Student,High End,180 to 220,Committed,Purchased
+1122,23,Female,Student,High End,Below 125,Single,Purchased
+1123,18,Male ,Student,High End,No Bike,Complicated,Purchased
+1124,22,Female,Student,High End,180 to 220,Single,Purchased
+1125,21,Female,Student,High End,180 to 220,Single,Purchased
+1126,19,Male ,Student,High End,125 to 180,Committed,Purchased
+1127,18,Male ,Student,High End,Below 125,Married,Purchased
+1128,24,Female,Student,High End,180 to 220,Married,Purchased
+1129,23,Female,Student,High End,125 to 180,Single,Purchased
+1130,18,Male ,Student,High End,180 to 220,Single,Purchased
+1131,24,Female,Student,High End,220 and Above,Single,Purchased
+1132,19,Female,Student,High End,125 to 180,Complicated,Purchased
+1133,24,Female,Student,High End,180 to 220,Complicated,Purchased
+1134,18,Male ,Student,High End,180 to 220,Committed,Purchased
+1135,23,Female,Student,High End,Below 125,Single,Purchased
+1136,18,Male ,Student,High End,No Bike,Complicated,Purchased
+1137,22,Female,Student,High End,180 to 220,Single,Purchased
+1138,21,Female,Student,High End,180 to 220,Single,Purchased
+1139,19,Male ,Student,High End,125 to 180,Committed,Purchased
+1140,18,Male ,Student,High End,Below 125,Married,Purchased
+1141,24,Female,Student,High End,180 to 220,Married,Purchased
+1142,23,Female,Student,High End,125 to 180,Single,Purchased
+1143,18,Male ,Student,High End,180 to 220,Single,Purchased
+1144,24,Female,Student,High End,220 and Above,Single,Purchased
+1145,19,Female,Student,High End,125 to 180,Complicated,Purchased
+1146,24,Female,Student,High End,180 to 220,Complicated,Purchased
+1147,18,Male ,Student,High End,180 to 220,Committed,Purchased
+1148,23,Female,Student,High End,Below 125,Single,Purchased
+1149,18,Male ,Student,High End,No Bike,Complicated,Purchased
+1150,22,Female,Student,High End,180 to 220,Single,Purchased
+1151,21,Female,Student,High End,180 to 220,Single,Purchased
+1152,19,Male ,Student,High End,125 to 180,Committed,Purchased
+1153,18,Male ,Student,High End,Below 125,Married,Purchased
+1154,24,Female,Student,High End,180 to 220,Married,Purchased
+1155,23,Female,Student,High End,125 to 180,Single,Purchased
+1156,18,Male ,Student,High End,180 to 220,Single,Purchased
+1157,24,Female,Student,High End,220 and Above,Single,Purchased
+1158,19,Female,Student,High End,125 to 180,Complicated,Purchased
+1159,24,Female,Student,High End,180 to 220,Complicated,Purchased
+1160,18,Male ,Student,High End,180 to 220,Committed,Purchased
+1161,23,Female,Student,High End,Below 125,Single,Purchased
+1162,18,Male ,Student,High End,No Bike,Complicated,Purchased
+1163,22,Female,Student,High End,180 to 220,Single,Purchased
+1164,21,Female,Student,High End,180 to 220,Single,Purchased
+1165,19,Male ,Student,High End,125 to 180,Committed,Purchased
+1166,18,Male ,Student,High End,Below 125,Married,Purchased
+1167,24,Female,Student,High End,180 to 220,Married,Purchased
+1168,23,Female,Student,High End,125 to 180,Single,Purchased
+1169,18,Male ,Student,High End,180 to 220,Single,Purchased
+1170,24,Female,Student,High End,220 and Above,Single,Purchased
+1171,19,Female,Student,High End,125 to 180,Complicated,Purchased
+1172,24,Female,Student,High End,180 to 220,Complicated,Purchased
+1173,18,Male ,Student,High End,180 to 220,Committed,Purchased
+1174,23,Female,Student,High End,Below 125,Single,Purchased
+1175,18,Male ,Student,High End,No Bike,Complicated,Purchased
+1176,22,Female,Student,High End,180 to 220,Single,Purchased
+1177,21,Female,Student,High End,180 to 220,Single,Purchased
+1178,19,Male ,Student,High End,125 to 180,Committed,Purchased
+1179,18,Male ,Student,High End,Below 125,Married,Purchased
+1180,24,Female,Student,High End,180 to 220,Married,Purchased
+1181,23,Female,Student,High End,125 to 180,Single,Purchased
+1182,18,Male ,Student,High End,180 to 220,Single,Purchased
+1183,24,Female,Student,High End,220 and Above,Single,Purchased
+1184,19,Female,Student,High End,125 to 180,Complicated,Purchased
+1185,24,Female,Student,High End,180 to 220,Complicated,Purchased
+1186,18,Male ,Student,High End,180 to 220,Committed,Purchased
+1187,23,Female,Student,High End,Below 125,Single,Purchased
+1188,18,Male ,Student,High End,No Bike,Complicated,Purchased
+1189,22,Female,Student,High End,180 to 220,Single,Purchased
+1190,21,Female,Student,High End,180 to 220,Single,Purchased
+1191,19,Male ,Student,High End,125 to 180,Committed,Purchased
+1192,18,Male ,Student,High End,Below 125,Married,Purchased
+1193,24,Female,Student,High End,180 to 220,Married,Purchased
+1194,23,Female,Student,High End,125 to 180,Single,Purchased
+1195,18,Male ,Student,High End,180 to 220,Single,Purchased
+1196,24,Female,Student,High End,220 and Above,Single,Purchased
+1197,19,Female,Student,High End,125 to 180,Complicated,Purchased
+1198,24,Female,Student,High End,180 to 220,Complicated,Purchased
+1199,18,Male ,Student,High End,180 to 220,Committed,Purchased
+1200,23,Female,Student,High End,Below 125,Single,Purchased
+1201,18,Male ,Student,High End,No Bike,Complicated,Purchased
+1202,22,Female,Student,High End,180 to 220,Single,Purchased
+1203,21,Female,Student,High End,180 to 220,Single,Purchased
+1204,19,Male ,Student,High End,125 to 180,Committed,Purchased
+1205,18,Male ,Student,High End,Below 125,Married,Purchased
+1206,24,Female,Student,High End,180 to 220,Married,Purchased
+1207,23,Female,Student,High End,125 to 180,Single,Purchased
+1208,18,Male ,Student,High End,180 to 220,Single,Purchased
+1209,24,Female,Student,High End,220 and Above,Single,Purchased
+1210,19,Female,Student,High End,125 to 180,Complicated,Purchased
+1211,24,Female,Student,High End,180 to 220,Complicated,Purchased
+1212,18,Male ,Student,High End,180 to 220,Committed,Purchased
+1213,23,Female,Student,High End,Below 125,Single,Purchased
+1214,18,Male ,Student,High End,No Bike,Complicated,Purchased
+1215,22,Female,Student,High End,180 to 220,Single,Purchased
+1216,21,Female,Student,High End,180 to 220,Single,Purchased
+1217,19,Male ,Student,High End,125 to 180,Committed,Purchased
+1218,18,Male ,Student,High End,Below 125,Married,Purchased
+1219,24,Female,Student,High End,180 to 220,Married,Purchased
+1220,23,Female,Student,High End,125 to 180,Single,Purchased
+1221,18,Male ,Student,High End,180 to 220,Single,Purchased
+1222,24,Female,Student,High End,220 and Above,Single,Purchased
+1223,19,Female,Student,High End,125 to 180,Complicated,Purchased
+1224,24,Female,Student,High End,180 to 220,Complicated,Purchased
+1225,18,Male ,Student,High End,180 to 220,Committed,Purchased
+1226,23,Female,Student,High End,Below 125,Single,Purchased
+1227,18,Male ,Student,High End,No Bike,Complicated,Purchased
+1228,22,Female,Student,High End,180 to 220,Single,Purchased
+1229,21,Female,Student,High End,180 to 220,Single,Purchased
+1230,19,Male ,Student,High End,125 to 180,Committed,Purchased
+1231,18,Male ,Student,High End,Below 125,Married,Purchased
+1232,24,Female,Student,High End,180 to 220,Married,Purchased
+1233,23,Female,Student,High End,125 to 180,Single,Purchased
+1234,18,Male ,Student,High End,180 to 220,Single,Purchased
+1235,24,Female,Student,High End,220 and Above,Single,Purchased
+1236,19,Female,Student,High End,125 to 180,Complicated,Purchased
+1237,24,Female,Student,High End,180 to 220,Complicated,Purchased
+1238,18,Male ,Student,High End,180 to 220,Committed,Purchased
+1239,23,Female,Student,High End,Below 125,Single,Purchased
+1240,18,Male ,Student,High End,No Bike,Complicated,Purchased
+1241,22,Female,Student,High End,180 to 220,Single,Purchased
+1242,21,Female,Student,High End,180 to 220,Single,Purchased
+1243,19,Male ,Student,High End,125 to 180,Committed,Purchased
+1244,18,Male ,Student,High End,Below 125,Married,Purchased
+1245,24,Female,Student,High End,180 to 220,Married,Purchased
+1246,23,Female,Student,High End,125 to 180,Single,Purchased
+1247,18,Male ,Student,High End,180 to 220,Single,Purchased
+1248,24,Female,Student,High End,220 and Above,Single,Purchased
+1249,19,Female,Student,High End,125 to 180,Complicated,Purchased
+1250,24,Female,Student,High End,180 to 220,Complicated,Purchased
+1251,18,Male ,Student,High End,180 to 220,Committed,Purchased
+1252,23,Female,Student,High End,Below 125,Single,Purchased
+1253,18,Male ,Student,High End,No Bike,Complicated,Purchased
+1254,22,Female,Student,High End,180 to 220,Single,Purchased
+1255,21,Female,Student,High End,180 to 220,Single,Purchased
+1256,19,Male ,Student,High End,125 to 180,Committed,Purchased
+1257,18,Male ,Student,High End,Below 125,Married,Purchased
+1258,24,Female,Student,High End,180 to 220,Married,Purchased
+1259,23,Female,Student,High End,125 to 180,Single,Purchased
+1260,18,Male ,Student,High End,180 to 220,Single,Purchased
+1261,24,Female,Student,High End,180 to 220,Complicated,Purchased
+1262,18,Male ,Student,High End,180 to 220,Committed,Purchased
+1263,23,Female,Student,High End,Below 125,Single,Purchased
+1264,18,Male ,Student,High End,No Bike,Complicated,Purchased
+1265,22,Female,Student,High End,180 to 220,Single,Purchased
+1266,21,Female,Student,High End,180 to 220,Single,Purchased
+1267,19,Male ,Student,High End,125 to 180,Committed,Purchased
+1268,18,Male ,Student,High End,Below 125,Married,Purchased
+1269,24,Female,Student,High End,180 to 220,Married,Purchased
+1270,23,Female,Student,High End,125 to 180,Single,Purchased
+1271,18,Male ,Student,High End,180 to 220,Single,Purchased
+1272,24,Female,Student,High End,220 and Above,Single,Purchased
+1273,19,Female,Student,High End,125 to 180,Complicated,Purchased
+1274,24,Female,Student,High End,180 to 220,Complicated,Purchased
+1275,18,Male ,Student,High End,180 to 220,Committed,Purchased
+1276,23,Female,Student,High End,Below 125,Single,Purchased
+1277,18,Male ,Student,High End,No Bike,Complicated,Purchased
+1278,22,Female,Student,High End,180 to 220,Single,Purchased
+1279,21,Female,Student,High End,180 to 220,Single,Purchased
+1280,19,Male ,Student,High End,125 to 180,Committed,Purchased
+1281,18,Male ,Student,High End,Below 125,Married,Purchased
+1282,24,Female,Student,High End,180 to 220,Married,Purchased
+1283,23,Female,Student,High End,125 to 180,Single,Purchased
+1284,18,Male ,Student,High End,180 to 220,Single,Purchased
+1285,24,Female,Student,High End,220 and Above,Single,Purchased
+1286,19,Female,Student,High End,125 to 180,Complicated,Purchased
+1287,24,Female,Student,High End,180 to 220,Complicated,Purchased
+1288,18,Male ,Student,High End,180 to 220,Committed,Purchased
+1289,23,Female,Student,High End,Below 125,Single,Purchased
+1290,18,Male ,Student,High End,No Bike,Complicated,Purchased
+1291,22,Female,Student,High End,180 to 220,Single,Purchased
+1292,21,Female,Student,High End,180 to 220,Single,Purchased
+1293,19,Male ,Student,High End,125 to 180,Committed,Purchased
+1294,18,Male ,Student,High End,Below 125,Married,Purchased
+1295,24,Female,Student,High End,180 to 220,Married,Purchased
+1296,23,Female,Student,High End,125 to 180,Single,Purchased
+1297,18,Male ,Student,High End,180 to 220,Single,Purchased
+1298,24,Female,Student,High End,220 and Above,Single,Purchased
+1299,19,Female,Student,High End,125 to 180,Complicated,Purchased
+1300,24,Female,Student,High End,180 to 220,Complicated,Purchased
+1301,18,Male ,Student,High End,180 to 220,Committed,Purchased
+1302,23,Female,Student,High End,Below 125,Single,Purchased
+1303,18,Male ,Student,High End,No Bike,Complicated,Purchased
+1304,22,Female,Student,High End,180 to 220,Single,Purchased
+1305,21,Female,Student,High End,180 to 220,Single,Purchased
+1306,19,Male ,Student,High End,125 to 180,Committed,Purchased
+1307,18,Male ,Student,High End,Below 125,Married,Purchased
+1308,24,Female,Student,High End,180 to 220,Married,Purchased
+1309,23,Female,Student,High End,125 to 180,Single,Purchased
+1310,18,Male ,Student,High End,180 to 220,Single,Purchased
+1311,24,Female,Student,High End,220 and Above,Single,Purchased
+1312,19,Female,Student,High End,125 to 180,Complicated,Purchased
+1313,24,Female,Student,High End,180 to 220,Complicated,Purchased
+1314,18,Male ,Student,High End,180 to 220,Committed,Purchased
+1315,23,Female,Student,High End,Below 125,Single,Purchased
+1316,18,Male ,Student,High End,No Bike,Complicated,Purchased
+1317,22,Female,Student,High End,180 to 220,Single,Purchased
+1318,21,Female,Student,High End,180 to 220,Single,Purchased
+1319,19,Male ,Student,High End,125 to 180,Committed,Purchased
+1320,18,Male ,Student,High End,Below 125,Married,Purchased
+1321,24,Female,Student,High End,180 to 220,Married,Purchased
+1322,23,Female,Student,High End,125 to 180,Single,Purchased
+1323,18,Male ,Student,High End,180 to 220,Single,Purchased
+1324,24,Female,Student,High End,220 and Above,Single,Purchased
+1325,19,Female,Student,High End,125 to 180,Complicated,Purchased
+1326,24,Female,Student,High End,180 to 220,Complicated,Purchased
+1327,18,Male ,Student,High End,180 to 220,Committed,Purchased
+1328,23,Female,Student,High End,Below 125,Single,Purchased
+1329,18,Male ,Student,High End,No Bike,Complicated,Purchased
+1330,22,Female,Student,High End,180 to 220,Single,Purchased
+1331,21,Female,Student,High End,180 to 220,Single,Purchased
+1332,19,Male ,Student,High End,125 to 180,Committed,Purchased
+1333,18,Male ,Student,High End,Below 125,Married,Purchased
+1334,24,Female,Student,High End,180 to 220,Married,Purchased
+1335,23,Female,Student,High End,125 to 180,Single,Purchased
+1336,18,Male ,Student,High End,180 to 220,Single,Purchased
+1337,24,Female,Student,High End,220 and Above,Single,Purchased
+1338,19,Female,Student,High End,125 to 180,Complicated,Purchased
+1339,24,Female,Student,High End,180 to 220,Complicated,Purchased
+1340,18,Male ,Student,High End,180 to 220,Committed,Purchased
+1341,23,Female,Student,High End,Below 125,Single,Purchased
+1342,18,Male ,Student,High End,No Bike,Complicated,Purchased
+1343,22,Female,Student,High End,180 to 220,Single,Purchased
+1344,21,Female,Student,High End,180 to 220,Single,Purchased
+1345,19,Male ,Student,High End,125 to 180,Committed,Purchased
+1346,18,Male ,Student,High End,Below 125,Married,Purchased
+1347,24,Female,Student,High End,180 to 220,Married,Purchased
+1348,23,Female,Student,High End,125 to 180,Single,Purchased
+1349,18,Male ,Student,High End,180 to 220,Single,Purchased
+1350,24,Female,Student,High End,220 and Above,Single,Purchased
+1351,19,Female,Student,High End,125 to 180,Complicated,Purchased
+1352,24,Female,Student,High End,180 to 220,Complicated,Purchased
+1353,18,Male ,Student,High End,180 to 220,Committed,Purchased
+1354,23,Female,Student,High End,Below 125,Single,Purchased
+1355,18,Male ,Student,High End,No Bike,Complicated,Purchased
+1356,22,Female,Student,High End,180 to 220,Single,Purchased
+1357,21,Female,Student,High End,180 to 220,Single,Purchased
+1358,19,Male ,Student,High End,125 to 180,Committed,Purchased
+1359,18,Male ,Student,High End,Below 125,Married,Purchased
+1360,24,Female,Student,High End,180 to 220,Married,Purchased
+1361,23,Female,Student,High End,125 to 180,Single,Purchased
+1362,18,Male ,Student,High End,180 to 220,Single,Purchased
+1363,24,Female,Student,High End,220 and Above,Single,Purchased
+1364,19,Female,Student,High End,125 to 180,Complicated,Purchased
+1365,24,Female,Student,High End,180 to 220,Complicated,Purchased
+1366,18,Male ,Student,High End,180 to 220,Committed,Purchased
+1367,23,Female,Student,High End,Below 125,Single,Purchased
+1368,18,Male ,Student,High End,No Bike,Complicated,Purchased
+1369,22,Female,Student,High End,180 to 220,Single,Purchased
+1370,21,Female,Student,High End,180 to 220,Single,Purchased
+1371,19,Male ,Student,High End,125 to 180,Committed,Purchased
+1372,18,Male ,Student,High End,Below 125,Married,Purchased
+1373,24,Female,Student,High End,180 to 220,Married,Purchased
+1374,23,Female,Student,High End,125 to 180,Single,Purchased
+1375,18,Male ,Student,High End,180 to 220,Single,Purchased
+1376,24,Female,Student,High End,220 and Above,Single,Purchased
+1377,19,Female,Student,High End,125 to 180,Complicated,Purchased
+1378,24,Female,Student,High End,180 to 220,Complicated,Purchased
+1379,18,Male ,Student,High End,180 to 220,Committed,Purchased
+1380,23,Female,Student,High End,Below 125,Single,Purchased
+1381,18,Male ,Student,High End,No Bike,Complicated,Purchased
+1382,22,Female,Student,High End,180 to 220,Single,Purchased
+1383,21,Female,Student,High End,180 to 220,Single,Purchased
+1384,19,Male ,Student,High End,125 to 180,Committed,Purchased
+1385,18,Male ,Student,High End,Below 125,Married,Purchased
+1386,24,Female,Student,High End,180 to 220,Married,Purchased
+1387,23,Female,Student,High End,125 to 180,Single,Purchased
+1388,18,Male ,Student,High End,180 to 220,Single,Purchased
+1389,24,Female,Student,High End,220 and Above,Single,Purchased
+1390,19,Female,Student,High End,125 to 180,Complicated,Purchased
+1391,24,Female,Student,High End,180 to 220,Complicated,Purchased
+1392,18,Male ,Student,High End,180 to 220,Committed,Purchased
+1393,23,Female,Student,High End,Below 125,Single,Purchased
+1394,18,Male ,Student,High End,No Bike,Complicated,Purchased
+1395,22,Female,Student,High End,180 to 220,Single,Purchased
+1396,21,Female,Student,High End,180 to 220,Single,Purchased
+1397,19,Male ,Student,High End,125 to 180,Committed,Purchased
+1398,18,Male ,Student,High End,Below 125,Married,Purchased
+1399,24,Female,Student,High End,180 to 220,Married,Purchased
+1400,23,Female,Student,High End,125 to 180,Single,Purchased
+1401,18,Male ,Student,High End,180 to 220,Single,Purchased
+1402,24,Female,Student,High End,220 and Above,Single,Purchased
+1403,19,Female,Student,High End,125 to 180,Complicated,Purchased
+1404,24,Female,Student,High End,180 to 220,Complicated,Purchased
+1405,18,Male ,Student,High End,180 to 220,Committed,Purchased
+1406,23,Female,Student,High End,Below 125,Single,Purchased
+1407,18,Male ,Student,High End,No Bike,Complicated,Purchased
+1408,22,Female,Student,High End,180 to 220,Single,Purchased
+1409,21,Female,Student,High End,180 to 220,Single,Purchased
+1410,19,Male ,Student,High End,125 to 180,Committed,Purchased
+1411,18,Male ,Student,High End,Below 125,Married,Purchased
+1412,24,Female,Student,High End,180 to 220,Married,Purchased
+1413,23,Female,Student,High End,125 to 180,Single,Purchased
+1414,18,Male ,Student,High End,180 to 220,Single,Purchased
+1415,24,Female,Student,High End,220 and Above,Single,Purchased
+1416,19,Female,Student,High End,125 to 180,Complicated,Purchased
+1417,24,Female,Student,High End,180 to 220,Complicated,Purchased
+1418,18,Male ,Student,High End,180 to 220,Committed,Purchased
+1419,23,Female,Student,High End,Below 125,Single,Purchased
+1420,18,Male ,Student,High End,No Bike,Complicated,Purchased
+1421,22,Female,Student,High End,180 to 220,Single,Purchased
+1422,21,Female,Student,High End,180 to 220,Single,Purchased
+1423,19,Male ,Student,High End,125 to 180,Committed,Purchased
+1424,18,Male ,Student,High End,Below 125,Married,Purchased
+1425,24,Female,Student,High End,180 to 220,Married,Purchased
+1426,23,Female,Student,High End,125 to 180,Single,Purchased
+1427,18,Male ,Student,High End,180 to 220,Single,Purchased
+1428,24,Female,Student,High End,220 and Above,Single,Purchased
+1429,19,Female,Student,High End,125 to 180,Complicated,Purchased
+1430,24,Female,Student,High End,180 to 220,Complicated,Purchased
+1431,18,Male ,Student,High End,180 to 220,Committed,Purchased
+1432,23,Female,Student,High End,Below 125,Single,Purchased
+1433,18,Male ,Student,High End,No Bike,Complicated,Purchased
+1434,22,Female,Student,High End,180 to 220,Single,Purchased
+1435,21,Female,Student,High End,180 to 220,Single,Purchased
+1436,19,Male ,Student,High End,125 to 180,Committed,Purchased
+1437,18,Male ,Student,High End,Below 125,Married,Purchased
+1438,24,Female,Student,High End,180 to 220,Married,Purchased
+1439,23,Female,Student,High End,125 to 180,Single,Purchased
+1440,18,Male ,Student,High End,180 to 220,Single,Purchased
+1441,24,Female,Student,High End,220 and Above,Single,Purchased
+1442,19,Female,Student,High End,125 to 180,Complicated,Purchased
+1443,24,Female,Student,High End,180 to 220,Complicated,Purchased
+1444,18,Male ,Student,High End,180 to 220,Committed,Purchased
+1445,23,Female,Student,High End,Below 125,Single,Purchased
+1446,18,Male ,Student,High End,No Bike,Complicated,Purchased
+1447,22,Female,Student,High End,180 to 220,Single,Purchased
+1448,21,Female,Student,High End,180 to 220,Single,Purchased
+1449,19,Male ,Student,High End,125 to 180,Committed,Purchased
+1450,18,Male ,Student,High End,Below 125,Married,Purchased
+1451,24,Female,Student,High End,180 to 220,Married,Purchased
+1452,23,Female,Student,High End,125 to 180,Single,Purchased
+1453,18,Male ,Student,High End,180 to 220,Single,Purchased
+1454,24,Female,Student,High End,220 and Above,Single,Purchased
+1455,19,Female,Student,High End,125 to 180,Complicated,Purchased
+1456,24,Female,Student,High End,180 to 220,Complicated,Purchased
+1457,18,Male ,Student,High End,180 to 220,Committed,Purchased
+1458,23,Female,Student,High End,Below 125,Single,Purchased
+1459,18,Male ,Student,High End,No Bike,Complicated,Purchased
+1460,22,Female,Student,High End,180 to 220,Single,Purchased
+1461,21,Female,Student,High End,180 to 220,Single,Purchased
+1462,19,Male ,Student,High End,125 to 180,Committed,Purchased
+1463,18,Male ,Student,High End,Below 125,Married,Purchased
+1464,24,Female,Student,High End,180 to 220,Married,Purchased
+1465,23,Female,Student,High End,125 to 180,Single,Purchased
+1466,18,Male ,Student,High End,180 to 220,Single,Purchased
+1467,24,Female,Student,High End,220 and Above,Single,Purchased
+1468,19,Female,Student,High End,125 to 180,Complicated,Purchased
+1469,24,Female,Student,High End,180 to 220,Complicated,Purchased
+1470,18,Male ,Student,High End,180 to 220,Committed,Purchased
+1471,23,Female,Student,High End,Below 125,Single,Purchased
+1472,18,Male ,Student,High End,No Bike,Complicated,Purchased
+1473,22,Female,Student,High End,180 to 220,Single,Purchased
+1474,21,Female,Student,High End,180 to 220,Single,Purchased
+1475,19,Male ,Student,High End,125 to 180,Committed,Purchased
+1476,18,Male ,Student,High End,Below 125,Married,Purchased
+1477,24,Female,Student,High End,180 to 220,Married,Purchased
+1478,23,Female,Student,High End,125 to 180,Single,Purchased
+1479,18,Male ,Student,High End,180 to 220,Single,Purchased
+1480,24,Female,Student,High End,220 and Above,Single,Purchased
+1481,19,Female,Student,High End,125 to 180,Complicated,Purchased
+1482,24,Female,Student,High End,180 to 220,Complicated,Purchased
+1483,18,Male ,Student,High End,180 to 220,Committed,Purchased
+1484,23,Female,Student,High End,Below 125,Single,Purchased
+1485,18,Male ,Student,High End,No Bike,Complicated,Purchased
+1486,22,Female,Student,High End,180 to 220,Single,Purchased
+1487,21,Female,Student,High End,180 to 220,Single,Purchased
+1488,19,Male ,Student,High End,125 to 180,Committed,Purchased
+1489,18,Male ,Student,High End,Below 125,Married,Purchased
+1490,24,Female,Student,High End,180 to 220,Married,Purchased
+1491,23,Female,Student,High End,125 to 180,Single,Purchased
+1492,18,Male ,Student,High End,180 to 220,Single,Purchased
+1493,24,Female,Student,High End,220 and Above,Single,Purchased
+1494,19,Female,Student,High End,125 to 180,Complicated,Purchased
+1495,24,Female,Student,High End,180 to 220,Complicated,Purchased
+1496,18,Male ,Student,High End,180 to 220,Committed,Purchased
+1497,23,Female,Student,High End,Below 125,Single,Purchased
+1498,18,Male ,Student,High End,No Bike,Complicated,Purchased
+1499,22,Female,Student,High End,180 to 220,Single,Purchased
+1500,21,Female,Student,High End,180 to 220,Single,Purchased
+1501,19,Male ,Student,High End,125 to 180,Committed,Purchased
+1502,18,Male ,Student,High End,Below 125,Married,Purchased
+1503,24,Female,Student,High End,180 to 220,Married,Purchased
+1504,23,Female,Student,High End,125 to 180,Single,Purchased
+1505,18,Male ,Student,High End,180 to 220,Single,Purchased
+1506,24,Female,Student,High End,220 and Above,Single,Purchased
+1507,19,Female,Student,High End,125 to 180,Complicated,Purchased
+1508,24,Female,Student,High End,180 to 220,Complicated,Purchased
+1509,18,Male ,Student,High End,180 to 220,Committed,Purchased
+1510,23,Female,Student,High End,Below 125,Single,Purchased
+1511,18,Male ,Student,High End,No Bike,Complicated,Purchased
+1512,22,Female,Student,High End,180 to 220,Single,Purchased
+1513,21,Female,Student,High End,180 to 220,Single,Purchased
+1514,19,Male ,Student,High End,125 to 180,Committed,Purchased
+1515,18,Male ,Student,High End,Below 125,Married,Purchased
+1516,24,Female,Student,High End,180 to 220,Married,Purchased
+1517,23,Female,Student,High End,125 to 180,Single,Purchased
+1518,18,Male ,Student,High End,180 to 220,Single,Purchased
